@@ -9,4 +9,5 @@ class Cancion:
         self.energy = cancion['energy']
         self.speechiness = cancion['speechiness']
         self.acousticness = cancion['acousticness']
-
+        self.tempo = cancion['tempo']
+        self.genres = cancion['genres']

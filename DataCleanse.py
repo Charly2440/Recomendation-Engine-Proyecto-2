@@ -29,17 +29,49 @@ class DataCleaning:
             except IndexError:
                 uriList.append(None)
 
-        features = []
         songsAndFeatures = {}
+        danceability = []
+        energy = []
+        speechiness = []
+        acousticness = []
+        tempo = []
+
         for i in range(len(uriList)):
             if uriList[i] is not None:
-                features.append(sp.returnFeatures(uriList[i]))
-                songsAndFeatures[cancionesBD[i]] = features
+                feats = sp.returnFeatures(uriList[i])[0]
+                songsAndFeatures[cancionesBD[i]] = sp.returnFeatures(uriList[i])[0]
+                danceability.append(feats["danceability"])
+                energy.append(feats["energy"])
+                speechiness.append(feats["speechiness"])
+                acousticness.append(feats["acousticness"])
+                tempo.append(feats["tempo"])
             else:
-                features.append(None)
-                songsAndFeatures[cancionesBD[i]] = [{'danceability': pd.NA, 'energy': pd.NA, 'key': pd.NA, 'loudness': pd.NA, 'mode': pd.NA, 'speechiness': pd.NA, 'acousticness': pd.NA, 'instrumentalness': pd.NA, 'liveness': pd.NA, 'valence': pd.NA, 'tempo': pd.NA, 'type': 'audio_features', 'id': 'Not found', 'uri': 'Not found', 'track_href': 'Not found', 'analysis_url': 'Not found', 'duration_ms': pd.NA, 'time_signature': pd.NA}]
+                songsAndFeatures[cancionesBD[i]] = {'danceability': pd.NA, 'energy': pd.NA, 'key': pd.NA, 'loudness': pd.NA, 'mode': pd.NA, 'speechiness': pd.NA, 'acousticness': pd.NA, 'instrumentalness': pd.NA, 'liveness': pd.NA, 'valence': pd.NA, 'tempo': pd.NA, 'type': 'audio_features', 'id': 'Not found', 'uri': 'Not found', 'track_href': 'Not found', 'analysis_url': 'Not found', 'duration_ms': pd.NA, 'time_signature': pd.NA}
+                danceability.append(pd.NA)
+                energy.append(pd.NA)
+                speechiness.append(pd.NA)
+                acousticness.append(pd.NA)
+                tempo.append(pd.NA)
 
-
+        df = pd.DataFrame({"cancion": cancionesBD,"danceability": danceability, "energy": energy, "speachiness": speechiness, "acousticness": acousticness,"tempo": tempo})
+        df.to_csv("DatosCancionesBD.csv")
 
         return songsAndFeatures
+
+    def agregarGeneros(self, sp):
+        df = pd.read_csv("DatosCancionesBD.csv")
+        genres = []
+        for nombre in df["cancion"]:
+            try:
+                url_artist = sp.searchTrack(nombre)["artists"][0]["external_urls"]["spotify"]
+                genre = sp.getGenresByTrack(url_artist)
+                genres.append(genre)
+            except IndexError:
+                genres.append(pd.NA)
+        df["generos"] = genres
+        df.to_csv("DatosCancionesGenres.csv")
+        return genres
+
+
+
 
