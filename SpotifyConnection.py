@@ -1,7 +1,5 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-import os
-
 
 class SpotifyConnection:
     def __init__(self):

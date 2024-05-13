@@ -19,7 +19,7 @@ if __name__ == '__main__':
     url_artista = datos_cancion["artists"][0]["external_urls"]["spotify"]
     nombre_artista = datos_cancion["artists"][0]["name"]
     #nombre_cancion = datos_cancion.keys()
-    #prev = datos_cancion["preview_url"]
+    prev = datos_cancion["preview_url"]
     #print(nombre_artista)
     #uri = datos_cancion["uri"]
     # print(nombre_cancion)
@@ -37,8 +37,8 @@ if __name__ == '__main__':
     #print(artistas)
 
     #Prueba creando usuario
-    usuarioPrueba = "Charly2440"
-    cancionPrueba1 = "Psycho Killer"
-    crearUsuario(usuarioPrueba)
-    agregarCancionUsuario(usuarioPrueba, cancionPrueba1, sp)
-    print("Prueba terminada")
+    usuarioPrueba = "Charly007"
+    cancionPrueba1 = "Imagine"
+    #crearUsuario(usuarioPrueba)
+    #agregarCancionUsuario(usuarioPrueba, cancionPrueba1, sp)
+    print(datos_cancion)

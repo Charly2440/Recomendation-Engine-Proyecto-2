@@ -20,23 +20,23 @@ def createSongNode(cancion,Danceability,Energy,Speech,Acousticness,Tempo):
             session.run("""
                                     MATCH (c:Cancion {name: $cancion}), (D:Feature {name: 'Danceability'})
                                     MERGE (c)-[:CONNECTED {weight: $Danceability}]->(D)
-                                    """, cancion=cancion, Danceability=Danceability)
+                                    """, cancion=cancion, Danceability=1-Danceability)
             session.run("""
                                     MATCH (c:Cancion {name: $cancion}), (E:Feature {name: 'Energy'})
                                     MERGE (c)-[:CONNECTED {weight: $Energy}]->(E)
-                                    """, cancion=cancion, Energy=Energy)
+                                    """, cancion=cancion, Energy=1-Energy)
             session.run("""
                                     MATCH (c:Cancion {name: $cancion}), (S:Feature {name: 'Speachiness'})
                                     MERGE (c)-[:CONNECTED {weight: $Speachiness}]->(S)
-                                    """, cancion=cancion, Speachiness=Speech)
+                                    """, cancion=cancion, Speachiness=1-Speech)
             session.run("""
                                     MATCH (c:Cancion {name: $cancion}), (A:Feature {name: 'Acousticness'})
                                     MERGE (c)-[:CONNECTED {weight: $Acousticness}]->(A)
-                                    """, cancion=cancion, Acousticness=Acousticness)
+                                    """, cancion=cancion, Acousticness=1-Acousticness)
             session.run("""
                                     MATCH (c:Cancion {name: $cancion}), (T:Feature {name: 'Tempo'})
                                     MERGE (c)-[:CONNECTED {weight: $Tempo}]->(T)
-                                    """, cancion=cancion, Tempo=Tempo)
+                                    """, cancion=cancion, Tempo=1-Tempo)
 
 #Datos para llenar base de datos
 df = pd.read_csv("DatosCancionesGenresArtists.csv")
@@ -63,51 +63,59 @@ prueba1 = df.iloc[0]
 
 #Pruebas de lectura
 prueba2 = df.iloc[38]
-with GraphDatabase.driver(URI, auth=AUTH) as driver:
-    with driver.session() as session:
-        data = session.run("""
-        MATCH (c:Cancion {name: $cancion}) - [r] -> (f:Feature)
-        RETURN  f.name as featureName, toFloat(r.weight) as weight
-        ORDER BY toFloat(r.weight) ASC
-        """, cancion=prueba2["cancion"])
-        features = [(record["weight"], record["featureName"]) for record in data]
-        feature1 = features[0]
-        feature2 = features[1]
-        possibleSongsByFeature1 = session.run("""
-        MATCH (c:Cancion) - [r] -> (f:Feature {name: $feature})
-        WHERE toFloat(r.weight) > $weightL AND toFloat(r.weight) < $weightH
-        RETURN c.name as songName, toFloat(r.weight) as Weight
-        """, feature=feature1[1], weightL=feature1[0]-0.01, weightH=feature1[0]+0.01)
-        possibleSongsByFeature2 = session.run("""
-        MATCH (c:Cancion) - [r] -> (f:Feature {name: $feature})
-        WHERE toFloat(r.weight) > $weightL AND toFloat(r.weight) < $weightH
-        RETURN c.name as songName, toFloat(r.weight) as Weight
-        """, feature=feature2[1], weightL=feature2[0]-0.01, weightH=feature2[0]+0.01)
+def recomenadarPorFeature(cancion):
+    with GraphDatabase.driver(URI, auth=AUTH) as driver:
+        with driver.session() as session:
+            data = session.run("""
+            MATCH (c:Cancion {name: $cancion}) - [r] -> (f:Feature)
+            RETURN  f.name as featureName, toFloat(r.weight) as weight
+            ORDER BY toFloat(r.weight) ASC
+            """, cancion=cancion)
+            features = [(record["weight"], record["featureName"]) for record in data]
+            feature1 = features[0]
+            feature2 = features[1]
+            possibleSongsByFeature1 = session.run("""
+            MATCH (c:Cancion) - [r] -> (f:Feature {name: $feature})
+            WHERE toFloat(r.weight) > $weightL AND toFloat(r.weight) < $weightH
+            RETURN c.name as songName, toFloat(r.weight) as Weight
+            """, feature=feature1[1], weightL=feature1[0]-0.01, weightH=feature1[0]+0.01)
+            possibleSongsByFeature2 = session.run("""
+            MATCH (c:Cancion) - [r] -> (f:Feature {name: $feature})
+            WHERE toFloat(r.weight) > $weightL AND toFloat(r.weight) < $weightH
+            RETURN c.name as songName, toFloat(r.weight) as Weight
+            """, feature=feature2[1], weightL=feature2[0]-0.01, weightH=feature2[0]+0.01)
 
-        songs1 = [song["songName"] for song in possibleSongsByFeature1]
-        songs2 = [song["songName"] for song in possibleSongsByFeature2]
-        commonSongs = []
-        for song in songs1:
-            for song2 in songs2:
-                if song == song2:
-                    commonSongs.append(song)
-        print(commonSongs)
+            songs1 = [song["songName"] for song in possibleSongsByFeature1]
+            songs2 = [song["songName"] for song in possibleSongsByFeature2]
+            commonSongs = []
+            for song in songs1:
+                for song2 in songs2:
+                    if song == song2:
+                        commonSongs.append(song)
+            if len(commonSongs) != 0 :
+                return commonSongs
+            else:
+                rand = randint(0,len(songs1)-1)
+                return songs1[rand]
 
-        songGenres = session.run("""
-        MATCH (c:Cancion {name: "Believer"})-[:BELONGS_TO]->(g:Genero)
-        RETURN g.name
-        """)
-        songGenres = songGenres.values()
-        rand1 = randint(0, len(songGenres)-1)
-        GenreRec = songGenres[rand1][0]
-        songsRecommendedByGenre = session.run("""
-        MATCH (c:Cancion)-[:BELONGS_TO]->(g:Genero {name: "pop"})
-        RETURN c.name
-        """)
-        songsRecommendedByGenre = songsRecommendedByGenre.values()
-        rand2 = randint(0, len(songsRecommendedByGenre)-1)
-        SongRecommendedByGenre = songsRecommendedByGenre[rand2][0]
-        print(SongRecommendedByGenre, GenreRec, prueba2["artista"])
+def recomendarPorGenero(cancion):
+    with GraphDatabase.driver(URI, auth=AUTH) as driver:
+        with driver.session() as session:
+            songGenres = session.run("""
+            MATCH (c:Cancion {name: $cancion})-[:BELONGS_TO]->(g:Genero)
+            RETURN g.name
+            """, cancion=cancion)
+            songGenres = songGenres.values()
+            rand1 = randint(0, len(songGenres)-1)
+            GenreRec = songGenres[rand1][0]
+            songsRecommendedByGenre = session.run("""
+            MATCH (c:Cancion)-[:BELONGS_TO]->(g:Genero {name: "pop"})
+            RETURN c.name
+            """)
+            songsRecommendedByGenre = songsRecommendedByGenre.values()
+            rand2 = randint(0, len(songsRecommendedByGenre)-1)
+            SongRecommendedByGenre = songsRecommendedByGenre[rand2][0]
+            return SongRecommendedByGenre, GenreRec
 
 
 
