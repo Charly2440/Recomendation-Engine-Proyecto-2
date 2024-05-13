@@ -72,6 +72,19 @@ class DataCleaning:
         df.to_csv("DatosCancionesGenres.csv")
         return genres
 
+    def agregarArtistas(self, sp):
+        df = pd.read_csv("DatosCancionesBD.csv")
+        artists = []
+        for nombre in df["cancion"]:
+            try:
+                artist = sp.searchTrack(nombre)["artists"][0]["name"]
+                artists.append(artist)
+            except IndexError:
+                artists.append(pd.NA)
+        df["artista"] = artists
+        df.to_csv("DatosCancionesGenresArtists.csv")
+        return artists
+
 
 
 
