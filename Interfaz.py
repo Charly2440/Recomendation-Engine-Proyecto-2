@@ -1,3 +1,4 @@
+
 import tkinter as tk
 from PIL import Image, ImageTk
 import requests
@@ -23,6 +24,30 @@ def acceder_datos():
     abrir_ventana_opciones()
 
 
+def abrir_ventana_agregar_cancion():
+    # Función para guardar el nombre de la canción ingresado por el usuario
+    def guardar_nombre_cancion():
+        global nombre_cancion
+        nombre_cancion = entry_nombre_cancion.get()
+        print("Nombre de la canción guardado:", nombre_cancion)
+        ventana_agregar_cancion.destroy()
+
+    # Crear ventana para agregar canción
+    ventana_agregar_cancion = tk.Toplevel(root)
+    ventana_agregar_cancion.title("Agregar Canción")
+
+    # Etiqueta y campo de entrada para el nombre de la canción
+    label_nombre_cancion = tk.Label(ventana_agregar_cancion, text="Nombre de la canción:")
+    label_nombre_cancion.pack()
+
+    entry_nombre_cancion = tk.Entry(ventana_agregar_cancion)
+    entry_nombre_cancion.pack()
+
+    # Botón para guardar el nombre de la canción
+    button_guardar = tk.Button(ventana_agregar_cancion, text="Guardar", command=guardar_nombre_cancion)
+    button_guardar.pack()
+
+
 def abrir_ventana_opciones():
     ventana_opciones = tk.Toplevel(root)
     ventana_opciones.title("Opciones")
@@ -31,7 +56,7 @@ def abrir_ventana_opciones():
     label.pack(pady=10)
 
     # Botón para agregar canción
-    button_agregarCancion = tk.Button(ventana_opciones, text="Agregar canción", command=agregar_cancion)
+    button_agregarCancion = tk.Button(ventana_opciones, text="Agregar canción", command=abrir_ventana_agregar_cancion)
     button_agregarCancion.pack(pady=5)
 
     # Botón para mostrar recomendaciones
@@ -55,61 +80,6 @@ def mostrar_ventana2():
     acces_button.pack()
     button_regresar.pack()
     ocultar_botones_iniciales()
-
-
-'''
-def mostrar_recomendaciones():
-    # Cargar imagen desde URL
-    url_imagen = "https://i.scdn.co/image/ab67616d0000b273e71708b667804f6241dd1a59"
-    response = requests.get(url_imagen)
-    image_data = response.content
-    image = Image.open(BytesIO(image_data))
-    image = ImageTk.PhotoImage(image)
-
-    # Crear un botón con la imagen
-    boton_imagen = tk.Button(root, image=image, command=abrir_url, bg='#99ff99')
-    boton_imagen.image = image  # Guardar una referencia para evitar que la imagen sea recolectada por el GC
-    boton_imagen.pack(pady=10)
-
-    print('Recomendaciones mostradas')
-
-'''
-'''
-def mostrar_recomendaciones():
-    # Lista de URLs de imágenes
-    urls_imagenes = [
-        "https://i.scdn.co/image/ab67616d0000b273e71708b667804f6241dd1a59",
-        "https://i.scdn.co/image/ab67616d0000b273e71708b667804f6241dd1a59",
-        "https://upload.wikimedia.org/wikipedia/en/0/0d/Mike_oldfield_tubular_bells_album_cover.jpg",
-        "https://i.scdn.co/image/ab67616d0000b273e71708b667804f6241dd1a59",
-        "https://upload.wikimedia.org/wikipedia/en/0/0d/Mike_oldfield_tubular_bells_album_cover.jpg"
-    ]
-
-    # Lista de URLs de canciones
-    urls_canciones = [
-        "https://open.spotify.com/intl-es/track/58vy7wj08LvhnSRu8mxvAd?si=9fb80aa5fc3d4c2b",
-        "https://open.spotify.com/intl-es/track/7HmuloxW2LLiPu0lcmkjoq?si=47657a191cfc4a18",
-        "https://open.spotify.com/intl-es/track/7ERSQrRptZVM7q3VOdM7OL?si=95b1eb4e1cd64f2b",
-        "https://open.spotify.com/intl-es/track/7pKfPomDEeI4TPT6EOYjn9?si=bb97db917df643b8",
-        "https://open.spotify.com/intl-es/track/6KI7wfdhXBJF7hLh25Ljp5?si=529ecd9d557f40ff"
-    ]
-
-    # Crear nueva ventana para recomendaciones
-    ventana_recomendaciones = tk.Toplevel(root)
-    ventana_recomendaciones.title("Recomendaciones")
-
-    # Crear y mostrar botones con imágenes y enlaces
-    for i, url_imagen in enumerate(urls_imagenes):
-        imagen = Image.open(BytesIO(requests.get(url_imagen).content))
-        imagen = ImageTk.PhotoImage(imagen)
-        boton = tk.Button(ventana_recomendaciones, image=imagen, command=lambda link=urls_canciones[i]: abrir_enlace(link))
-        boton.image = imagen  # Mantener referencia a la imagen para evitar que se elimine por el recolector de basura
-        boton.pack(pady=5)
-
-def abrir_enlace(link):
-    import webbrowser
-    webbrowser.open_new_tab(link)
-'''
 
 
 def resize_image(image_path):
