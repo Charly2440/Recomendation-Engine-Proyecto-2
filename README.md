@@ -1,5 +1,10 @@
 # Recomendador de Música
 
+Autores
+Juan Luis Solórzano, carnet: 201598
+Carlos Villagrán, carnet: 22264
+Jorge Palacios, carnet: 231385
+
 ## Descripción del Programa
 
 El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios a descubrir nuevas canciones basadas en sus preferencias musicales. Utiliza la API de Spotify para acceder a una amplia gama de datos sobre canciones y artistas. Los usuarios pueden crear perfiles, agregar canciones que les gusten y recibir recomendaciones personalizadas.
