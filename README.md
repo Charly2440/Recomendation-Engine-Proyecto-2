@@ -1,9 +1,12 @@
 # Recomendador de Música
 
-Autores
-Juan Luis Solórzano, carnet: 201598
-Carlos Villagrán, carnet: 22264
-Jorge Palacios, carnet: 231385
+**Autores**
+
+-Juan Luis Solórzano, carnet: 201598
+
+-Carlos Villagrán, carnet: 22264
+
+-Jorge Palacios, carnet: 231385
 
 ## Descripción del Programa
 
