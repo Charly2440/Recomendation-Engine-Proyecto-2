@@ -40,5 +40,19 @@ El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios
 4. **Interacción con Spotify**
    - Se utiliza la API de Spotify para acceder a información detallada sobre canciones y artistas, así como para reproducir las canciones recomendadas.
 
+  ## Requisitos ## Librerías Utilizadas
+  
+ **Python**: Asegúrate de tener Python 3.7 o superior instalado en tu sistema.
+ 
+ **Librerias de Python**
+- neo4j==4.4.3
+- pandas==1.3.5
+- spotipy==2.19.0
+- Pillow==8.4.0
+- requests==2.26.0
+- tk
+
+
+
 
 
