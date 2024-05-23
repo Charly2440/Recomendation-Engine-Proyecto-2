@@ -10,7 +10,7 @@ AUTH = ("neo4j", "Qw85zsznwNhcIengCsTsSbLY76sVg2Rep0tuRJLMi7o")
 def createFeatureNode():
     with GraphDatabase.driver(URI,auth=AUTH) as driver:
         with driver.session() as session:
-            session.run("CREATE (:Feature {name:'Danceability'}), (:Feature {name:'Energy'}), (:Feature {name:'Speachiness'}), (:Feature {name:'Acousticness'}), (:Feature {name:'Tempo'})")
+            session.run("MERGE (:Feature {name:'Danceability'}), (:Feature {name:'Energy'}), (:Feature {name:'Speachiness'}), (:Feature {name:'Acousticness'}), (:Feature {name:'Tempo'})")
 
 #Funcion para crear nodos y relaciones ponderadas
 def createSongNode(cancion,Danceability,Energy,Speech,Acousticness,Tempo):
@@ -39,30 +39,29 @@ def createSongNode(cancion,Danceability,Energy,Speech,Acousticness,Tempo):
                                     """, cancion=cancion, Tempo=1-Tempo)
 
 #Datos para llenar base de datos
-df = pd.read_csv("DatosCancionesGenresArtists.csv")
+df = pd.read_csv("DatosCancionesUrlsAgregadas.csv")
 
 #prueba, exitosa
 prueba1 = df.iloc[0]
+def agregarArtistaUrls(cancion, imagen, artista, url):
+    with GraphDatabase.driver(URI, auth=AUTH) as driver:
+        with driver.session() as session:
+            session.run("""
+            MATCH (s:Cancion {name: $cancion})
+            SET s.artista = $artista, s.imagen = $imagen, s.url = $url
+            """, cancion=cancion, imagen=imagen, artista=artista, url=url)
 
-#createSongNode(prueba1["cancion"], prueba1["danceability"], prueba1["energy"], prueba1["speachiness"], prueba1["acousticness"], prueba1["tempo"])
+def obtenerDatosCancion(cancion):
+        with GraphDatabase.driver(URI, auth=AUTH) as driver:
+            with driver.session() as session:
+                datos = session.run("""
+                MATCH (s:Cancion {name: $cancion})
+                RETURN s.name as name, s.artista as artista, s.imagen as imagen, s.url as url
+                """, cancion=cancion)
+                data = [record.data() for record in datos][0]
+                return data
 
-#llenando base de datos con complementos
-#for i in range(len(df["cancion"])-1):
-#    nodo = df.iloc[i+1]
-#    createSongNode(nodo["cancion"], str(1.-float(nodo["danceability"])), str(1.-float(nodo["energy"])), str(1.-float(nodo["speachiness"])), str(1.-float(nodo["acousticness"])), str(1.-float(nodo["tempo"])))
 
-#Realizando correciones al valor de las relaciones Tempo
-#for i in range(len(df["cancion"])-1):
-#    nodo = df.iloc[i+1]
-#    with GraphDatabase.driver(URI, auth=AUTH) as driver:
-#        with driver.session() as session:
-#            session.run("""
-#                MATCH (c:Cancion {name: $songName})-[r]->(f:Feature {name: $featureName})
-#                SET r.weight = $newWeight
-#            """, songName=nodo["cancion"], featureName="Tempo", newWeight = nodo["tempo"])
-
-#Pruebas de lectura
-prueba2 = df.iloc[38]
 def recomenadarPorFeature(cancion):
     with GraphDatabase.driver(URI, auth=AUTH) as driver:
         with driver.session() as session:
@@ -77,47 +76,61 @@ def recomenadarPorFeature(cancion):
             possibleSongsByFeature1 = session.run("""
             MATCH (c:Cancion) - [r] -> (f:Feature {name: $feature})
             WHERE toFloat(r.weight) > $weightL AND toFloat(r.weight) < $weightH
-            RETURN c.name as songName, toFloat(r.weight) as Weight
-            """, feature=feature1[1], weightL=feature1[0]-0.01, weightH=feature1[0]+0.01)
+            RETURN c.name as songName
+            """, feature=feature1[1], weightL=feature1[0]-0.05, weightH=feature1[0]+0.05)
             possibleSongsByFeature2 = session.run("""
             MATCH (c:Cancion) - [r] -> (f:Feature {name: $feature})
             WHERE toFloat(r.weight) > $weightL AND toFloat(r.weight) < $weightH
-            RETURN c.name as songName, toFloat(r.weight) as Weight
-            """, feature=feature2[1], weightL=feature2[0]-0.01, weightH=feature2[0]+0.01)
+            RETURN c.name as songName
+            """, feature=feature2[1], weightL=feature2[0]-0.05, weightH=feature2[0]+0.05)
 
-            songs1 = [song["songName"] for song in possibleSongsByFeature1]
-            songs2 = [song["songName"] for song in possibleSongsByFeature2]
+            songs1 = []
+            for cancion in possibleSongsByFeature1:
+                songs1.append(cancion.values()[0])
+            songs2 = []
+            for cancion in possibleSongsByFeature2:
+                songs2.append(cancion.values()[0])
             commonSongs = []
             for song in songs1:
                 for song2 in songs2:
                     if song == song2:
                         commonSongs.append(song)
             if len(commonSongs) != 0 :
-                return commonSongs
+                return commonSongs[1:]
             else:
-                rand = randint(0,len(songs1)-1)
-                return songs1[rand]
+                return songs1
+
 
 def recomendarPorGenero(cancion):
     with GraphDatabase.driver(URI, auth=AUTH) as driver:
         with driver.session() as session:
             songGenres = session.run("""
             MATCH (c:Cancion {name: $cancion})-[:BELONGS_TO]->(g:Genero)
-            RETURN g.name
+            RETURN g.name as genero
             """, cancion=cancion)
-            songGenres = songGenres.values()
-            rand1 = randint(0, len(songGenres)-1)
-            GenreRec = songGenres[rand1][0]
+
+            songGenres = [record["genero"] for record in songGenres]
+
+            if not songGenres:
+                return None, None
+
+
+            rand1 = randint(0, len(songGenres) - 1)
+            GenreRec = songGenres[rand1]
+
             songsRecommendedByGenre = session.run("""
-            MATCH (c:Cancion)-[:BELONGS_TO]->(g:Genero {name: "pop"})
-            RETURN c.name
-            """)
-            songsRecommendedByGenre = songsRecommendedByGenre.values()
-            rand2 = randint(0, len(songsRecommendedByGenre)-1)
-            SongRecommendedByGenre = songsRecommendedByGenre[rand2][0]
+            MATCH (c:Cancion)-[:BELONGS_TO]->(g:Genero {name: $genero})
+            RETURN c.name as name
+            """, genero=GenreRec)
+
+            songsRecommendedByGenre = [record["name"] for record in songsRecommendedByGenre]
+
+            if not songsRecommendedByGenre:
+                return None, GenreRec
+            rand2 = randint(0, len(songsRecommendedByGenre) - 1)
+            SongRecommendedByGenre = songsRecommendedByGenre[rand2]
+
             return SongRecommendedByGenre, GenreRec
-
-
 
 
 #Creando nodos de generos
@@ -146,20 +159,6 @@ def crearNodoGenero(genero):
             """, genero=genero)
 
 
-#Creando relaciones entre canciones y generos
-#with GraphDatabase.driver(URI, auth=AUTH) as driver:
-#    with driver.session() as session:
-#        for i in range(len(df["cancion"])-1):
-#            cancion = df.iloc[i+1]["cancion"]
-#            generos = df.iloc[i+1]["generos"]
-#            if type(generos) == str:
-#                generos = ast.literal_eval(generos)
-#                for genero in generos:
-#                    session.run("""
-#                    MATCH (c:Cancion {name: $cancion}), (g:Genero {name: $genero})
-#                    MERGE (c)-[:BELONGS_TO]->(g)
-#                    """, cancion=cancion, genero=genero)
-#
 def crearUsuario(usuario):
     with GraphDatabase.driver(URI, auth=AUTH) as driver:
         with driver.session() as session:
@@ -198,3 +197,15 @@ def agregarCancionUsuario(usuario, cancion, sp):
             MATCH (u:Usuario {name: $usuario}), (c:Cancion {name: $cancion})
             MERGE (u)-[:LIKES]->(c)
             """, cancion=cancion, usuario=usuario)
+
+def cancionesUsuario(usuario):
+    with GraphDatabase.driver(URI, auth=AUTH) as driver:
+        with driver.session() as session:
+            canciones = session.run("""
+            MATCH (u:Usuario {name: $usuario})-[:LIKES]->(c:Cancion)
+            RETURN c.name   
+            """, usuario=usuario)
+            songs = []
+            for cancion in canciones:
+                songs.append(cancion.values()[0])
+            return songs

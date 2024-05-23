@@ -1,0 +1,685 @@
+,Unnamed: 0.1,Unnamed: 0,cancion,danceability,energy,speachiness,acousticness,tempo,artista,imagenes,urlSpot
+0,0,0,Blinding Lights,0.548,0.894,0.0376,0.0565,170.912,Tebey,https://i.scdn.co/image/ab67616d0000b27330a7da693427ed4c700b9734,https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt
+1,1,1,Believer,0.487,0.838,0.255,0.058,93.701,Imagine Dragons,https://i.scdn.co/image/ab67616d0000b2735e1db60a6f9214c247061d86,https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT
+2,2,2,I Took A Pill In Ibiza - Seeb Remix,0.664,0.714,0.111,0.0353,101.969,Mike Posner,https://i.scdn.co/image/ab67616d0000b2731db27fa11dbafa67857da8f3,https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO
+3,3,3,Safe And Sound,0.471,0.3,0.028,0.883,144.319,Capital Cities,https://i.scdn.co/image/ab67616d0000b2734f719ea76d1b7048664b8fec,https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR
+4,4,4,Yeah! (feat. Lil Jon & Ludacris),0.894,0.791,0.112,0.0183,105.018,USHER,https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da,https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk
+5,5,5,Here Comes The Sun - Remastered 2009,0.619,0.234,0.0351,0.956,123.737,The Beatles,https://i.scdn.co/image/ab67616d0000b273c94603dcb78ec39322cebb5b,https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c
+6,6,6,Flowers,0.838,0.364,0.134,0.0849,79.987,The Deli,https://i.scdn.co/image/ab67616d0000b273247f9a30e283798d925b71b1,https://open.spotify.com/album/1DewSgsGUFhSPACbWtmZGa
+7,7,7,Grenade,0.704,0.558,0.0542,0.148,110.444,Bruno Mars,https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b,https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX
+8,8,8,Need to Know,0.664,0.609,0.0707,0.304,130.041,Doja Cat,https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a,https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW
+9,9,9,Dandelions,0.33,0.709,0.0312,0.0411,101.673,Ruth B.,https://i.scdn.co/image/ab67616d0000b27396c2ed12fcaadba5e1eac696,https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj
+10,10,10,Shape of You,0.53,0.92,0.0734,0.0255,191.977,Fame on Fire,https://i.scdn.co/image/ab67616d0000b27336af4da408a79320bb873b49,https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq
+11,11,11,Mr. Brightside,0.352,0.911,0.0747,0.00121,148.033,The Killers,https://i.scdn.co/image/ab67616d0000b273bf134707d20f3a6941d64637,https://open.spotify.com/album/5f1wXxJR0mdlj2Nd09UtAi
+12,12,12,Sex on Fire,0.265,0.709,0.118,0.0641,93.626,PARTYNEXTDOOR,https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8,https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp
+13,13,13,Smells Like Teen Spirit,0.608,0.511,0.0383,0.0299,113.898,Witchz,https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf,https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ
+14,14,14,Whistle,0.747,0.937,0.0453,0.0208,103.976,Flo Rida,https://i.scdn.co/image/ab67616d0000b273cd3edc2ae9147ef5ded74f18,https://open.spotify.com/album/3b907XkOKqImIVX1aZmSou
+15,15,15,Viva La Vida,0.8,0.35,0.0573,0.922,130.09,main character melodies,https://i.scdn.co/image/ab67616d0000b27365ea1c999ca9226e5671b981,https://open.spotify.com/album/2EWm1pYI5Tq9aOzrLNVmor
+16,16,16,Everybody Wants To Rule The World,0.614,0.0735,0.0324,0.779,99.979,Covers Unplugged,https://i.scdn.co/image/ab67616d0000b27386babc8f0d9b83cc6a563e05,https://open.spotify.com/album/0rZHqDWL4PE9XVSQBLgJ13
+17,17,17,Enter Sandman,0.566,0.834,0.0298,0.00277,123.296,Ghost,https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869,https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH
+18,18,18,Thunderstruck,0.502,0.89,0.0364,0.000147,133.52,AC/DC,https://i.scdn.co/image/ab67616d0000b27384c1426062b7532efc60a146,https://open.spotify.com/album/5YBY91ePHZWzgsLRrDK8DI
+19,19,19,Insane,0.412,0.449,0.0341,0.453,91.533,insaneintherainmusic,https://i.scdn.co/image/ab67616d0000b273e5e6508c3a698f2a7c112a06,https://open.spotify.com/album/21jan3bQWvIBBn9FdTPmJT
+20,20,20,Boomerang,0.828,0.794,0.0436,0.00942,115.013,Jojo Siwa (Kids),https://i.scdn.co/image/ab67616d0000b2739ba057362f1d4018b4cedc0a,https://open.spotify.com/album/4XjsEEC0egjD59vuN93ep5
+21,21,21,India,0.74,0.666,0.0518,0.122,74.963,Lil Durk,https://i.scdn.co/image/ab67616d0000b273cc252a21d0f26d9378f03ed6,https://open.spotify.com/album/7HB55Zq1RoZvtwQGm5nxhv
+22,22,22,Livin' On A Prayer,0.662,0.161,0.046,0.986,99.953,Bon Jovi,https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac,https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t
+23,23,23,Don't Stop Believin',0.505,0.754,0.0366,0.132,119.204,Journey,https://i.scdn.co/image/ab67616d0000b2730f6ce5c138493ac768d9afc8,https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R
+24,24,24,Wonderwall,0.7,0.705,0.0414,0.148,99.97,Oasis,https://i.scdn.co/image/ab67616d0000b273bddacd834aef0b78006eb0db,https://open.spotify.com/album/05UF2efu1b171BiCLMJlCF
+25,25,25,Hey Ya!,0.727,0.974,0.0664,0.103,79.526,Outkast,https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367,https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r
+26,26,26,I Gotta Feeling,0.744,0.766,0.0265,0.0873,127.966,Black Eyed Peas,https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4,https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB
+27,27,27,Iris,0.556,0.062,0.0666,0.996,108.929,Music Lab Collective,https://i.scdn.co/image/ab67616d0000b27319101543e78a10bd77eccc70,https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9
+28,28,28,Capy´s Journey to the Olympus - Dance,0.745,0.186,0.0389,0.882,144.007,The Cast Of Journey To Bethlehem,https://i.scdn.co/image/ab67616d0000b273361f00de7de9a99be7bffcc6,https://open.spotify.com/album/3H7DuofRiTRQZH74HLOQPq
+29,29,29,Highway to Hell,0.574,0.913,0.133,0.061,115.728,AC/DC,https://i.scdn.co/image/ab67616d0000b27351c02a77d09dfcd53c8676d0,https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS
+30,30,30,Under the Bridge,0.559,0.345,0.0459,0.0576,84.581,Red Hot Chili Peppers,https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70,https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg
+31,31,31,We Found Love,0.735,0.766,0.0384,0.025,127.975,Rihanna,https://i.scdn.co/image/ab67616d0000b273bef074de9ca825bddaeb9f46,https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn
+32,32,32,Sweet Home Alabama,0.596,0.606,0.0255,0.181,97.785,Lynyrd Skynyrd,https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac,https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH
+33,33,33,Eye of the Tiger,0.815,0.438,0.0346,0.216,108.966,Survivor,https://i.scdn.co/image/ab67616d0000b273c722845f4d534fee30ab6d0f,https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+34,34,34,Summer,0.6,0.572,0.0272,0.0173,90.029,TrackVibes,https://i.scdn.co/image/ab67616d0000b27397d4d28370521d7f31b07ce3,https://open.spotify.com/album/36oOq5EXd9D6xia0xpmuBZ
+35,35,35,Story of My Life,0.6,0.663,0.0477,0.225,121.07,One Direction,https://i.scdn.co/image/ab67616d0000b27388914878d6980c0075913292,https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6
+36,36,36,Californication,0.592,0.767,0.027,0.0021,96.483,Red Hot Chili Peppers,https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9,https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A
+37,37,37,Take on Me,0.576,0.94,0.118,0.0192,97.876,Reel Big Fish,https://i.scdn.co/image/ab67616d0000b273d8a2c79bb4e493c53c18c114,https://open.spotify.com/album/55SHqC4ZxSnT0wWQgg9eOY
+38,38,38,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",0.722,0.758,0.0471,0.0111,128.047,Maroon 5,https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239,https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv
+39,39,39,Losing My Religion,0.666,0.855,0.0295,0.179,125.639,R.E.M.,https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd,https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK
+40,40,40,Don't Stop Me Now - Remastered 2011,0.563,0.865,0.16,0.0472,156.271,Queen,https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889,https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy
+41,41,41,Every Breath You Take,0.78,0.573,0.038,0.249,119.973,Deep Chills,https://i.scdn.co/image/ab67616d0000b273978d9f8912e06539747b4c7c,https://open.spotify.com/album/7AAKCABCnLAUFSgoWkYK3e
+42,42,42,Creep,0.905,0.436,0.0521,0.733,95.056,owlh,https://i.scdn.co/image/ab67616d0000b2733a5faed9228bad4d348d7f42,https://open.spotify.com/album/4miMnywBrNgI5A3P45Gj6P
+43,43,43,Wake Me Up,0.459,0.0194,0.0422,0.991,68.06,Figgy Malone,https://i.scdn.co/image/ab67616d0000b273601e8e67682102f61f0e195a,https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP
+44,44,44,A Sky Full of Stars,0.545,0.675,0.0279,0.00617,124.97,Coldplay,https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf,https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr
+45,45,45,Billie Jean,0.929,0.449,0.0698,0.0182,117.118,G Perico,https://i.scdn.co/image/ab67616d0000b273c09743453ed63d80d674f4d6,https://open.spotify.com/album/7L3aDiPHK8qUEqDiRWxqAs
+46,46,46,Party In The U.S.A.,0.652,0.698,0.042,0.00112,96.021,Miley Cyrus,https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103,https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS
+47,47,47,NEO EDEN,0.514,0.392,0.0312,0.887,104.513,EDEN,https://i.scdn.co/image/ab67616d0000b27345f0a939a410566b8858085c,https://open.spotify.com/album/103Ei0O61EuLk5cnadIT0t
+48,48,48,As It Was,0.727,0.132,0.0451,0.993,121.996,Harry Styles,https://i.scdn.co/image/ab67616d0000b2738d0a2de1887a7e3027dd883e,https://open.spotify.com/album/6iQxfVGyGtlVqYMOQ0MrsU
+49,49,49,Back In Black,0.759,0.538,0.384,0.151,146.933,AC/DC,https://i.scdn.co/image/ab67616d0000b273f10858519346ab01dcb744b5,https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV
+50,50,50,Under Pressure - Remastered 2011,0.671,0.711,0.0478,0.422,113.809,Queen,https://i.scdn.co/image/ab67616d0000b273c12b6aa3d50150032e455286,https://open.spotify.com/album/7rq68qYz66mNdPfidhIEFa
+51,51,51,"Hey, Soul Sister",0.673,0.886,0.0431,0.185,97.012,Train,https://i.scdn.co/image/ab67616d0000b2736ff8bc258e3ebc835ffe14ca,https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR
+52,52,52,Shut Up and Dance,0.578,0.866,0.0619,0.00701,128.038,WALK THE MOON,https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3,https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT
+53,53,53,Have You Ever Seen The Rain,0.741,0.697,0.0277,0.0664,116.109,Creedence Clearwater Revival,https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91,https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF
+54,54,54,Pumped Up Kicks,0.733,0.71,0.0292,0.145,127.975,Foster The People,https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5,https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT
+55,55,55,In the End,0.618,0.611,0.11,0.477,88.07,Tommee Profitt,https://i.scdn.co/image/ab67616d0000b27346557fdc7325844aa2177155,https://open.spotify.com/album/4ogDiddFmcxnT4PC9lVEoV
+56,56,56,Can't Hold Us (feat. Ray Dalton),0.633,0.927,0.0839,0.0267,146.097,Macklemore & Ryan Lewis,https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec,https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8
+57,57,57,Waiting For Love,0.579,0.736,0.0527,0.31,127.999,Avicii,https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468,https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V
+58,58,58,Yellow,0.429,0.661,0.0281,0.00239,173.372,Coldplay,https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0,https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra
+59,59,59,Unholy (feat. Kim Petras),0.719,0.454,0.0707,0.0138,131.007,Sam Smith,https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4,https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi
+60,60,60,Bohemian Rhapsody - Remastered 2011,0.397,0.386,0.0503,0.271,144.242,Queen,https://i.scdn.co/image/ab67616d0000b273f7b6f1d6b235e8e70ecc4407,https://open.spotify.com/album/1Q9NOisnaTULM5CZD4rIgZ
+61,61,61,Hotel California - 2013 Remaster,0.579,0.508,0.027,0.00574,147.125,Eagles,https://i.scdn.co/image/ab67616d0000b27396d28597a5ae44ab66552183,https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF
+62,62,62,Somebody That I Used to Know,0.864,0.495,0.037,0.591,129.062,Gotye,https://i.scdn.co/image/ab67616d0000b273e1d47c00ddecbfb810c807ed,https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna
+63,63,63,Pompeii,0.679,0.715,0.0407,0.0755,127.435,Bastille,https://i.scdn.co/image/ab67616d0000b273258225089decfb3d5c3718d3,https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj
+64,64,64,Down 2,0.62,0.776,0.0365,0.36,93.964,Luke Bryan,https://i.scdn.co/image/ab67616d0000b2734768480cf7c817b1f2d12113,https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez
+65,65,65,Sugar (feat. Francesco Yates),0.776,0.118,0.0569,0.896,119.944,Francesco Yates,https://i.scdn.co/image/ab67616d0000b273ab4aec0222b94e2d7c5c6a59,https://open.spotify.com/album/24TT3jzVoaZb4j8L5HKUNs
+66,66,66,Another One Bites The Dust - Remastered 2011,0.932,0.528,0.161,0.115,109.975,Queen,https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47,https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa
+67,67,67,Numb,0.357,0.882,0.0673,0.739,105.301,Paul Kossoff,https://i.scdn.co/image/ab67616d0000b2734c944ce2b054539f5d272a21,https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv
+68,68,68,Timber,0.598,0.554,0.0273,0.123,124.918,Pitbull,https://i.scdn.co/image/ab67616d0000b2732e310e3e24502baa53182b14,https://open.spotify.com/album/1e59JnYLO3n6srpPN3mH3p
+69,69,69,Call Me Maybe,0.782,0.58,0.0407,0.0114,120.021,Carly Rae Jepsen,https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c,https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13
+70,70,70,Running on Empty,0.541,0.711,0.0383,0.0635,136.58,Jackson Browne,https://i.scdn.co/image/ab67616d0000b2738d6479b1461b26b8b6603935,https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL
+71,71,71,Sweet Dreams (Are Made of This) - Remastered,0.519,0.512,0.0279,0.28,110.156,The Big 80s Guys,https://i.scdn.co/image/ab67616d0000b273ad45cdf01f006a197bae44a4,https://open.spotify.com/album/3GSfTcKoI5AfyhNpD18jxO
+72,72,72,Counting Stars,0.56,0.737,0.0389,0.00502,122.021,OneRepublic,https://i.scdn.co/image/ab67616d0000b273103a8fd17ff6b4de98b84aa4,https://open.spotify.com/album/0LJTgowzVzFnvPMIV7mQd6
+73,73,73,New Beginnings,0.187,0.0178,0.0385,0.953,67.406,Dusty Clav,https://i.scdn.co/image/ab67616d0000b273859cae42d3935bebe95e8c95,https://open.spotify.com/album/1DI0QDtYduUlszEVcY2Swu
+74,74,74,Africa,0.798,0.423,0.103,0.155,124.976,Lofi Fruits Music,https://i.scdn.co/image/ab67616d0000b273d919e9cd4bf366e18f209c51,https://open.spotify.com/album/2UmBlu5D2OXBuyylhZ9mOa
+75,75,75,We Will Rock You - Remastered 2011,0.146,0.924,0.0855,0.016,173.411,The Cast Of 'We Will Rock You',https://i.scdn.co/image/ab67616d0000b273a17e7152dbc48c4079a2ea41,https://open.spotify.com/album/45kqhI3kl71xDWr0eWyjIL
+76,76,76,Time of Our Lives,0.721,0.802,0.0583,0.0921,124.022,Pitbull,https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776,https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA
+77,77,77,Lose Yourself,0.692,0.744,0.257,0.00868,171.374,Eminem,https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578,https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ
+78,78,78,Locked out of Heaven,0.726,0.698,0.0431,0.049,143.994,Bruno Mars,https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46,https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI
+79,79,79,Do I Wanna Know?,0.548,0.532,0.0323,0.186,85.03,Lofi Fruits Music,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163,https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu
+80,80,80,Valencia,0.779,0.815,0.0553,0.438,90.524,.multibeat,https://i.scdn.co/image/ab67616d0000b273ff612437ec87074c5fc688e5,https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ
+81,81,81,"Shakira: Bzrp Music Sessions, Vol. 53",0.842,0.745,0.0399,0.281,122.06,Bizarrap,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812,https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg
+82,82,82,Titanium (feat. Sia),0.604,0.788,0.103,0.0678,126.06,David Guetta,https://i.scdn.co/image/ab67616d0000b273a197a2ef3ad6704d1f44aa4e,https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn
+83,83,83,Cold Heart - PNAU Remix,0.796,0.798,0.0317,0.034,116.032,Elton John,https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23,https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6
+84,84,84,PABLO - Sped Up,0.706,0.384,0.176,0.0137,95.004,xryce,https://i.scdn.co/image/ab67616d0000b273e051ccf24e68facfa737b634,https://open.spotify.com/album/4LP5qC6d971GNOQggd3ves
+85,85,85,The Real Slim Shady,0.949,0.661,0.0572,0.0302,104.504,Eminem,https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42,https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC
+86,86,86,Set Fire to the Rain,0.716,0.777,0.0284,0.0291,126.991,BADDIES ONLY,https://i.scdn.co/image/ab67616d0000b2737b829a08d49ca6086281cd0d,https://open.spotify.com/album/0iUW7ZLSxxNN8YtPnmshfZ
+87,87,87,No Role Modelz,0.657,0.33,0.0299,0.698,79.962,J. Cole,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8,https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG
+88,88,88,I Failed You,0.31,0.721,0.268,0.0387,169.976,phreshboyswag,https://i.scdn.co/image/ab67616d0000b273e015a44c12846572798ce6d6,https://open.spotify.com/album/77DQU4F8GfAv7NXnolHsb5
+89,89,89,Chop Suey!,0.417,0.934,0.119,0.000278,127.066,System Of A Down,https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578,https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh
+90,90,90,Ni**as In Paris,0.789,0.858,0.311,0.127,140.022,JAY-Z,https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30,https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS
+91,91,91,Sweater Weather,0.612,0.807,0.0336,0.0495,124.053,The Neighbourhood,https://i.scdn.co/image/ab67616d0000b273d425066031fb32f5916a0099,https://open.spotify.com/album/2cKig247X2NwNhUIzuiBDN
+92,92,92,All Girls Are The Same,0.671,0.529,0.307,0.0769,161.989,Juice WRLD,https://i.scdn.co/image/ab67616d0000b2736a831aeca9c101825a655b72,https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI
+93,93,93,Mockingbird,0.794,0.31,0.106,0.832,185.324,fenekot,https://i.scdn.co/image/ab67616d0000b2737e117efda7b80643f7155073,https://open.spotify.com/album/6bUsLdSxxbHDdt7nXi6VK5
+94,94,94,Why'd You Only Call Me When You're High?,0.358,0.0668,0.0381,0.951,146.005,Neo Soundz,https://i.scdn.co/image/ab67616d0000b27374078855efe298f50b463b84,https://open.spotify.com/album/4YSqx9JUCiJU431fOxcoYO
+95,95,95,Cape Cabo,0.72,0.725,0.277,0.34,180.063,Player1,https://i.scdn.co/image/ab67616d0000b273c24018290e94caa302917e13,https://open.spotify.com/album/76eaxTAvRMbAlDqP6cQ7zY
+96,96,96,Feel Good Inc.,0.768,0.374,0.174,0.551,130.017,LAV8,https://i.scdn.co/image/ab67616d0000b2732a0378e63c1548a7ceea5447,https://open.spotify.com/album/2VJHjsmXACarvKY0qhP404
+97,97,97,Workout,0.776,0.608,0.0569,0.0109,149.991,Dj 2Ble RD,https://i.scdn.co/image/ab67616d0000b273758f24ced78e29586d931404,https://open.spotify.com/album/26RLXRJA7aOOffZJGjUaSW
+98,98,98,Payphone,0.739,0.756,0.0394,0.0136,110.028,Maroon 5,https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084,https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP
+99,99,99,Not Like Us,0.898,0.472,0.0776,0.0107,101.061,Brantley Gilbert,https://i.scdn.co/image/ab67616d0000b2735e324e5b7f9d613a819c3d83,https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0
+100,100,100,MILLION DOLLAR BABY,0.849,0.699,0.0436,0.0982,138.003,Tommy Richman,https://i.scdn.co/image/ab67616d0000b273ce31aff39a003828576d3930,https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz
+101,101,101,euphoria,0.823,0.337,0.738,0.645,145.922,Labrinth,https://i.scdn.co/image/ab67616d0000b273288364fd24f708ea8f4e4036,https://open.spotify.com/album/2csybKDw0lTcrFPF6HbQXd
+102,102,102,Like That,0.856,0.339,0.173,0.0516,136.159,1600j,https://i.scdn.co/image/ab67616d0000b273346a8d0abcf3b6cc9120bd17,https://open.spotify.com/album/0PVeHnjMNnsSZs0USV4nFX
+103,103,103,Family Matters,0.603,0.483,0.216,0.00384,133.983,Drake,https://i.scdn.co/image/ab67616d0000b273a0ac23f4b446a7264e67bf0e,https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ
+104,104,104,Fortnight (feat. Post Malone),0.504,0.386,0.0308,0.502,192.004,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2736e23a0e8c57bc6e6ba1a669b,https://open.spotify.com/album/3BjA1DQTgKYzDp84cmGgYc
+105,105,105,System,0.531,0.621,0.426,0.602,112.352,NXI,https://i.scdn.co/image/ab67616d0000b27344da9fd90561a9d8dd0d3814,https://open.spotify.com/album/5sktmM1asxMgunqxW4vJms
+106,106,106,A Bar Song (Tipsy),0.722,0.709,0.0273,0.0633,81.012,Shaboozey,https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2,https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ
+107,107,107,meet the grahams,0.565,0.922,0.117,0.000244,130.033,Lil Double 0,https://i.scdn.co/image/ab67616d0000b27312de80f22edaa7bf1a6f24f5,https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74
+108,108,108,Para Dey!,0.421,0.238,0.0427,0.771,148.001,José Feliciano,https://i.scdn.co/image/ab67616d0000b2732dc977c20e99e13c16b629dc,https://open.spotify.com/album/2X9Ou9FH5gBa3w9coyWVF9
+109,109,109,Espresso,0.701,0.76,0.0285,0.107,103.969,Ollie Joseph,https://i.scdn.co/image/ab67616d0000b273c05a328faddfd54ae08a1352,https://open.spotify.com/album/2yIhXdfQKrzp7ENGxxI92c
+110,110,110,Fly Guys,0.779,0.408,0.333,0.0295,95.087,BossMan Dlow,https://i.scdn.co/image/ab67616d0000b273ffa6e26b32933fed980ba2c8,https://open.spotify.com/album/4C0ygkaQ743p2qKoJSfkmk
+111,111,111,Down Bad,0.541,0.366,0.0748,0.56,159.707,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+112,112,112,Beautiful Things,0.472,0.471,0.0603,0.151,105.029,Benson Boone,https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf,https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw
+113,113,113,Ginger,0.605,0.919,0.349,0.136,129.961,Rucka Rucka Ali,https://i.scdn.co/image/ab67616d0000b2732c485c1ce116eab594545fe1,https://open.spotify.com/album/65XilTQ54EEMa9yp6dYPW2
+114,114,114,Too Sweet,0.803,0.597,0.141,0.000619,136.008,Drake,https://i.scdn.co/image/ab67616d0000b2732e8b4358d044b75807e30bf0,https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN
+115,115,115,I Can Do It With a Broken Heart,0.701,0.751,0.0502,0.123,129.994,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+116,116,116,Gata Only,0.791,0.499,0.0509,0.446,99.986,FloyyMenor,https://i.scdn.co/image/ab67616d0000b2731d0777b3259d0bd618f4a1f6,https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM
+117,117,117,Type Shit,0.64,0.552,0.129,0.0215,144.941,Future,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8,https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn
+118,118,118,Pop Girl,0.834,0.571,0.0615,0.64,109.937,Mother Goose Club,https://i.scdn.co/image/ab67616d0000b27355ec7bdd96887942a0948281,https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL
+119,119,119,But Daddy I Love Him,0.521,0.72,0.104,0.384,79.943,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33,https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt
+120,120,120,Magnetic,0.442,0.593,0.0345,0.793,92.124,The Magnetic Fields,https://i.scdn.co/image/ab67616d0000b2735e7d92681d4891c4b637c630,https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7
+121,121,121,Push Ups,0.598,0.696,0.112,0.0153,91.057,Drake,https://i.scdn.co/image/ab67616d0000b27384bfd0d363f0179ac7c97fa5,https://open.spotify.com/album/06me0leRR3AuF4IFiEytml
+122,122,122,Lose Control,0.596,0.711,0.0379,0.162,159.812,Gavin Adcock,https://i.scdn.co/image/ab67616d0000b27324bd65f4f2105bf477456c86,https://open.spotify.com/album/2XvOroKs4BeolSv59e3tbN
+123,123,123,"So Long, London",0.423,0.533,0.322,0.73,160.218,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33,https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt
+124,124,124,Who’s Afraid of Little Old Me?,0.606,0.338,0.048,0.315,119.88,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+125,125,125,Guilty as Sin?,0.626,0.428,0.0261,0.607,94.95,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+126,126,126,The Tortured Poets Department,0.601,0.44,0.0256,0.0442,110.315,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33,https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt
+127,127,127,My Boy Only Breaks His Favorite Toys,0.796,0.451,0.0317,0.219,120.079,Taylor Swift,https://i.scdn.co/image/ab67616d0000b27346858642aaa0c7ca0d19464a,https://open.spotify.com/album/0rbIid2bMJWR82rWfYFT7p
+128,128,128,we can't be friends (wait for your love),0.645,0.646,0.0427,0.0615,115.842,Ariana Grande,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4,https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK
+129,129,129,Florida!!! (feat. Florence + The Machine),0.533,0.573,0.138,0.178,150.088,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+130,130,130,The Smallest Man Who Ever Lived,0.426,0.41,0.0581,0.52,142.377,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33,https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt
+131,131,131,i like the way you kiss me,0.599,0.946,0.0447,0.000938,151.647,Artemas,https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738,https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z
+132,132,132,Bling-Bang-Bang-Born,0.853,0.822,0.246,0.0841,157.013,Creepy Nuts,https://i.scdn.co/image/ab67616d0000b2733f6de9c0ca2148edf20daa6b,https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6
+133,133,133,Get It Sexyy,0.811,0.64,0.274,0.0957,145.031,Sexyy Red,https://i.scdn.co/image/ab67616d0000b273422237a4122460c2fa99c135,https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw
+134,134,134,Saturn,0.131,0.205,0.0387,0.624,146.089,Sleeping At Last,https://i.scdn.co/image/ab67616d0000b273fc702e5800e7482e78b29c48,https://open.spotify.com/album/4D4rqEvVjxiQfN4iTUCiQH
+135,135,135,Snooze,0.559,0.551,0.132,0.141,143.008,SZA,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1,https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG
+136,136,136,Fresh Out The Slammer,0.808,0.513,0.678,0.12,106.739,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33,https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt
+137,137,137,loml,0.83,0.752,0.266,0.0361,124.948,LOCS,https://i.scdn.co/image/ab67616d0000b27310811ea65fadf36bf156bb0d,https://open.spotify.com/album/0ahmOAdDGX9LlKZY4rxHqt
+138,138,138,Cruel Summer,0.666,0.871,0.0272,0.27,108.501,Taylor Swift,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647,https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq
+139,139,139,Last Night,0.489,0.624,0.0278,0.326,90.009,Our Last Night,https://i.scdn.co/image/ab67616d0000b273c8c1af5b8c983986144b6746,https://open.spotify.com/album/20VCNrjlrBIPDZXxQaFEJG
+140,140,140,The Alchemy,0.49,0.47,0.21,0.588,78.831,Roc Marciano,https://i.scdn.co/image/ab67616d0000b27330a379961d4bb2ca92652380,https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh
+141,141,141,Stick Season,0.664,0.5,0.0651,0.799,117.896,Noah Kahan,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918,https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz
+142,142,142,幾億光年,0.444,0.684,0.027,0.00448,96.225,Omoinotake,https://i.scdn.co/image/ab67616d0000b2738b7a8c1322028d45a8355f7a,https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9
+143,143,143,CARNIVAL,0.594,0.811,0.159,0.189,148.144,¥$,https://i.scdn.co/image/ab67616d0000b2730a31b4026a452ae8c3f97a76,https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF
+144,144,144,I Can Fix Him (No Really I Can),0.661,0.257,0.045,0.768,106.896,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+145,145,145,Wanna Be (with Megan Thee Stallion),0.919,0.629,0.376,0.0226,135.05,GloRilla,https://i.scdn.co/image/ab67616d0000b2731424f8400ef9989ab88dae2a,https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C
+146,146,146,ライラック,0.511,0.924,0.0584,0.00269,135.027,美波,https://i.scdn.co/image/ab67616d0000b27374b26f95618f8fb986a3ad36,https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV
+147,147,147,Whatever She Wants,0.803,0.512,0.066,0.128,96.02,Bryson Tiller,https://i.scdn.co/image/ab67616d0000b2731aba7b448d35bd576ceac182,https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf
+148,148,148,Training Season,0.812,0.587,0.0477,0.0349,123.041,Dua Lipa,https://i.scdn.co/image/ab67616d0000b273790260cc86fd7b2678bb204d,https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784
+149,149,149,Freestyle,0.887,0.52,0.296,0.00158,91.933,TLoc 2730,https://i.scdn.co/image/ab67616d0000b273e6dbf836ed0070d3d3eb8a6c,https://open.spotify.com/album/5H1dKbTO2RB1OHaR3WhwGZ
+150,150,150,I Remember Everything (feat. Kacey Musgraves),0.429,0.453,0.0459,0.554,77.639,Zach Bryan,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef,https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf
+151,151,151,Cowgirls (feat. ERNEST),0.621,0.779,0.0361,0.216,172.037,Morgan Wallen,https://i.scdn.co/image/ab67616d0000b2733bdbff2d08c6cd6195513380,https://open.spotify.com/album/08uElKFBFW5Wuab7HvnkAF
+152,152,152,imgonnagetyouback,0.653,0.231,0.0367,0.859,84.903,liliane,https://i.scdn.co/image/ab67616d0000b2738df6f85f63dccfc14d76f1ca,https://open.spotify.com/album/7cyLokYFZGKw9HdMqwN8aT
+153,153,153,Clara Bow,0.686,0.318,0.0263,0.636,104.088,Taylor Swift,https://i.scdn.co/image/ab67616d0000b273abf999b1d8dee28f00a13a95,https://open.spotify.com/album/3epLvMDhdA1QR3eD7C2sCQ
+154,154,154,Yeah Glo!,0.894,0.66,0.33,0.0243,148.072,GloRilla,https://i.scdn.co/image/ab67616d0000b2731da67131f071aa3c7fe13f6e,https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa
+155,155,155,greedy,0.749,0.729,0.0321,0.261,111.004,Tate McRae,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8,https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN
+156,156,156,The Black Dog,0.527,0.27,0.038,0.707,154.042,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+157,157,157,Best I Ever Had,0.395,0.922,0.375,0.19,162.361,Gary Allan,https://i.scdn.co/image/ab67616d0000b273c63b6a31e2aa2b13039f63a7,https://open.spotify.com/album/2f2pU2XjUiqq6qTZjOJgOH
+158,158,158,HUMBLE.,0.908,0.621,0.102,0.000282,150.011,Kendrick Lamar,https://i.scdn.co/image/ab67616d0000b273cf69027149c3bb9739c45722,https://open.spotify.com/album/1jA3GponC4Y7FoHaHdqi85
+159,159,159,So High School,0.366,0.866,0.0466,0.0274,176.07,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+160,160,160,Mask Off,0.833,0.434,0.431,0.0102,150.062,Future,https://i.scdn.co/image/ab67616d0000b273e0b64c8be3c4e804abcb2696,https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r
+161,161,161,Money Trees,0.716,0.531,0.122,0.0703,71.994,Kendrick Lamar,https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797,https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1
+162,162,162,TEXAS HOLD 'EM,0.727,0.711,0.078,0.582,110.012,Beyoncé,https://i.scdn.co/image/ab67616d0000b27349188fe723e4734b391f5162,https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx
+163,163,163,Thinkin’ Bout Me,0.67,0.711,0.0563,0.536,163.998,rei brown,https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065,https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b
+164,164,164,FE!N (feat. Playboi Carti),0.569,0.882,0.06,0.0316,148.038,Travis Scott,https://i.scdn.co/image/ab67616d0000b2739162764a6017634fb155498d,https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ
+165,165,165,Illusion,0.654,0.799,0.124,0.0203,137.993,Dua Lipa,https://i.scdn.co/image/ab67616d0000b273c01fb32d3c89474b4c5d17fd,https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt
+166,166,166,Austin,0.756,0.672,0.0522,0.464,114.935,Dasha,https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb,https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e
+167,167,167,End of Beginning,0.689,0.454,0.0584,0.0351,159.982,Djo,https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1,https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH
+168,168,168,Cinderella,0.196,0.14,0.0353,0.892,58.637,Patrick Doyle,https://i.scdn.co/image/ab67616d0000b27365c6c451e1ed0d70f0774b24,https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx
+169,169,169,Lovin On Me,0.943,0.558,0.0568,0.0026,104.983,Jack Harlow,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8,https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af
+170,170,170,redrum,0.677,0.628,0.0428,0.0134,76.43,21 Savage,https://i.scdn.co/image/ab67616d0000b273bbdceba2bf1867d4966d0347,https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq
+171,171,171,Nonstop,0.465,0.745,0.0524,0.000113,141.331,overthxnk,https://i.scdn.co/image/ab67616d0000b273b6dbe7fc7b3d59a2cf90830d,https://open.spotify.com/album/7lBOptUWIkyKLpXgMMp4Sz
+172,172,172,Fast Car,0.711,0.292,0.037,0.313,103.951,Tracy Chapman,https://i.scdn.co/image/ab67616d0000b273ca650d3a95022e0490434ba1,https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw
+173,173,173,Poetic Justice,0.779,0.572,0.378,0.157,135.956,Kendrick Lamar,https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d,https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w
+174,174,174,Chasin' You,0.631,0.591,0.0277,0.657,97.074,Morgan Wallen,https://i.scdn.co/image/ab67616d0000b273f9f2dda2df2a695b9bad3440,https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO
+175,175,175,Spin You Around (1/24),0.622,0.444,0.027,0.795,141.952,Morgan Wallen,https://i.scdn.co/image/ab67616d0000b27379663e938af7d4dc153da554,https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It
+176,176,176,Wind Up Missin' You,0.756,0.782,0.287,0.304,89.956,PrettiBoiRoq,https://i.scdn.co/image/ab67616d0000b2738dd53da15b55d402dfc3a20e,https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp
+177,177,177,How Did It End?,0.492,0.379,0.0257,0.785,83.993,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2737b6fda92d5912fef92f373de,https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9
+178,178,178,TÚ NAME,0.76,0.747,0.0282,0.0675,128.912,Fuerza Regida,https://i.scdn.co/image/ab67616d0000b273abc2d11a541fa61795691697,https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv
+179,179,179,晩餐歌,0.649,0.641,0.0251,0.433,102.983,DIFA,https://i.scdn.co/image/ab67616d0000b27355e029fef14405c5d536453b,https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ
+180,180,180,The Prophecy,0.421,0.525,0.0472,0.825,167.927,Howard Shore,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+181,181,181,Bank Account,0.884,0.347,0.35,0.015,75.016,21 Savage,https://i.scdn.co/image/ab67616d0000b273e5cf9d123cde094ce2151ffe,https://open.spotify.com/album/4OkzFskhch2QTCGh6C9ITR
+182,182,182,Sum 2 Prove,0.827,0.552,0.274,0.0169,124.011,Lil Baby,https://i.scdn.co/image/ab67616d0000b273f46a9ad551acbdab8f72fd89,https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d
+183,183,183,Power Trip (feat. Miguel),0.667,0.608,0.216,0.324,99.992,J. Cole,https://i.scdn.co/image/ab67616d0000b273c1bb124f993488cf21b269fc,https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623
+184,184,184,SHEESH,0.85,0.645,0.0502,0.0784,114.967,Rence,https://i.scdn.co/image/ab67616d0000b273b0a4925844ea23a1c1a57d5f,https://open.spotify.com/album/5cEAJJI3lKivMvPwyn43k0
+185,185,185,HIGHEST IN THE ROOM,0.598,0.427,0.0317,0.0546,76.469,Travis Scott,https://i.scdn.co/image/ab67616d0000b273e42b5fea4ac4c3d6328b622b,https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU
+186,186,186,Where the Wild Things Are,0.708,0.731,0.0345,0.0189,116.975,Metallica,https://i.scdn.co/image/ab67616d0000b273ca650d3a95022e0490434ba1,https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw
+187,187,187,The Albatross,0.352,0.479,0.0583,0.655,172.013,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+188,188,188,I Hate It Here,0.485,0.562,0.0346,0.717,105.953,Taylor Swift,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+189,189,189,God's Plan,0.758,0.452,0.11,0.0322,77.168,Drake,https://i.scdn.co/image/ab67616d0000b273c185e37be2a06b5c6f2dc704,https://open.spotify.com/album/42wvKYHFezpmDuAP43558f
+190,190,190,Houdini,0.744,0.789,0.059,0.0036,116.985,Dua Lipa,https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af,https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb
+191,191,191,thanK you aIMee,0.768,0.494,0.0442,0.0531,126.289,Grailz Beni,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+192,192,192,Whiskey Glasses,0.65,0.845,0.0499,0.014,123.038,Morgan Wallen,https://i.scdn.co/image/ab67616d0000b273f9f2dda2df2a695b9bad3440,https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO
+193,193,193,WAIT FOR U (feat. Drake & Tems),0.505,0.536,0.156,0.0756,84.755,Future,https://i.scdn.co/image/ab67616d0000b2738f357d2e97fed0265106a502,https://open.spotify.com/album/4WgEUAbA3elrKKvTh1jjM3
+194,194,194,Low Down,0.962,0.619,0.405,0.0354,127.956,Lil Baby,https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8,https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r
+195,195,195,Passionfruit,0.809,0.463,0.0396,0.256,111.98,Drake,https://i.scdn.co/image/ab67616d0000b273b5e29a4897d7cce79673910a,https://open.spotify.com/album/4dvkEfxroInqojJWP06R2V
+196,196,196,Stick Talk,0.729,0.672,0.282,0.0265,159.903,Future,https://i.scdn.co/image/ab67616d0000b273b2592bea12d840fd096ef965,https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl
+197,197,197,"Bitch, Don’t Kill My Vibe",0.587,0.698,0.0943,0.0152,133.954,Kendrick Lamar,https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797,https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1
+198,198,198,LOVE. FEAT. ZACARI.,0.8,0.585,0.0924,0.264,126.058,Kendrick Lamar,https://i.scdn.co/image/ab67616d0000b2739e5a358edfeb737f420b3776,https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg
+199,199,199,Madonna,0.905,0.492,0.0595,0.0149,110.017,Madonna,https://i.scdn.co/image/ab67616d0000b2736b44fa8f5415cc4c945117be,https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0
+200,200,200,Entre las de 20,0.774,0.736,0.0452,0.0933,135.788,Bizarrap,https://i.scdn.co/image/ab67616d0000b273c06bfabb9334ac12ebd8d15c,https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6
+201,201,201,Si No Quieres No,0.786,0.786,0.0512,0.445,100.123,Luis R Conriquez,https://i.scdn.co/image/ab67616d0000b2735c7365ca8cfaf7d80136c656,https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF
+202,202,202,Vicio Duro,0.779,0.576,0.0381,0.311,119.981,Adverzo,https://i.scdn.co/image/ab67616d0000b2739ab47ff981bc20280ce9c0f0,https://open.spotify.com/album/5i2uC3kpJdvOoo5VhpKlEv
+203,203,203,"Natanael Cano: Bzrp Music Sessions, Vol. 59",0.671,0.8,0.0695,0.0595,166.9,Bizarrap,https://i.scdn.co/image/ab67616d0000b273ce50ef036ef899baff9eb8b2,https://open.spotify.com/album/7kzmadmAbWRPtLbpQveynY
+204,204,204,Y LLORO,0.728,0.589,0.0376,0.424,77.475,Junior H,https://i.scdn.co/image/ab67616d0000b273f3ba6742a35f111aaea1ca2f,https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG
+205,205,205,Brillarosa,0.771,0.782,0.0341,0.305,125.027,Fuerza Regida,https://i.scdn.co/image/ab67616d0000b273abc2d11a541fa61795691697,https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv
+206,206,206,300 Noches,0.795,0.781,0.0812,0.296,124.133,Jorge Quintero,https://i.scdn.co/image/ab67616d0000b2734c330c8d739522364f1e67cd,https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml
+207,207,207,Sola Va A Caer,0.88,0.689,0.118,0.166,115.959,Anthony Ready & Yeigo,https://i.scdn.co/image/ab67616d0000b2733cb6944a0ece94b218de1f41,https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg
+208,208,208,El Boss,0.777,0.535,0.0559,0.0661,132.272,Gabito Ballesteros,https://i.scdn.co/image/ab67616d0000b273511ab9ca638321d69bb2bbe8,https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk
+209,209,209,EXCESOS,0.742,0.873,0.0519,0.172,128.053,Sebastian Esquivel,https://i.scdn.co/image/ab67616d0000b2733e99ee5e0941b055267d9857,https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb
+210,210,210,Elvira,0.76,0.711,0.0646,0.0812,128.134,Oscar Maydon,https://i.scdn.co/image/ab67616d0000b273ce1080453dcd330ce552acb4,https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J
+211,211,211,La Torre,0.182,0.114,0.0348,0.974,69.665,Vizkel,https://i.scdn.co/image/ab67616d0000b273a181306e44fc25b48f4a3e39,https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq
+212,212,212,ADIVINO,0.786,0.854,0.0741,0.169,117.994,Tomaso Albinoni,https://i.scdn.co/image/ab67616d0000b273b41f34aa51be675c5cfd3d94,https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl
+213,213,213,Que Onda,0.808,0.944,0.0408,0.183,124.934,Calle 24,https://i.scdn.co/image/ab67616d0000b273c8fd4190e32eed2dfcd00f66,https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd
+214,214,214,Santa,0.89,0.281,0.3,0.471,149.984,Big Canttiggity,https://i.scdn.co/image/ab67616d0000b2735d6b4dd20d3cac5dd8898fdc,https://open.spotify.com/album/6BVOh7BXvokuMJ0KzbGuOB
+215,215,215,LADY GAGA,0.502,0.761,0.0389,0.47,164.784,Grupo Viada,https://i.scdn.co/image/ab67616d0000b273d4167c7960c4ce59e94f048a,https://open.spotify.com/album/7d7tUVkAPsdWefNxbbXKij
+216,216,216,MÏA,0.84,0.762,0.226,0.00736,99.987,Jennifer Lopez,https://i.scdn.co/image/ab67616d0000b273d5cf73c1679244d959651dff,https://open.spotify.com/album/7pJj6tOX5HCBaYfLPiHfDn
+217,217,217,RUBICON,0.868,0.745,0.268,0.187,139.9,Peso Pluma,https://i.scdn.co/image/ab67616d0000b273a77d3ce5ce2eae6ab2f6fdf1,https://open.spotify.com/album/7oZCcoo9I1yRw2GEnYxjJ7
+218,218,218,BARBIEZ,0.62,0.738,0.0292,0.00879,127.982,Barbie,https://i.scdn.co/image/ab67616d0000b2732b9c6c3e7cf11cb8bc111e70,https://open.spotify.com/album/1jzz0i9Fk2658tlAkCi7of
+219,219,219,La Diabla,0.751,0.819,0.0409,0.255,131.842,Xavi,https://i.scdn.co/image/ab67616d0000b2731501c770de50a22b25d67611,https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v
+220,220,220,Don Dimadon,0.858,0.811,0.187,0.015,121.976,Remp,https://i.scdn.co/image/ab67616d0000b2738f85a0a31e109960b8b44559,https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA
+221,221,221,LUNA,0.704,0.433,0.196,0.0708,113.943,5l33p,https://i.scdn.co/image/ab67616d0000b273a9fe6d4c71d43e1f35be4dc1,https://open.spotify.com/album/2aT5SrvOX6uWaceA8mATsB
+222,222,222,LA PEOPLE II,0.823,0.785,0.0542,0.296,131.849,Peso Pluma,https://i.scdn.co/image/ab67616d0000b273875bdac2781e7f3ca184fd79,https://open.spotify.com/album/67Du1rWhFRsimuZD0Vstj4
+223,223,223,Corazón de Piedra,0.834,0.763,0.0835,0.0354,134.844,Xavi,https://i.scdn.co/image/ab67616d0000b273572e681dcdb302d7625b08c7,https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so
+224,224,224,HARLEY QUINN,0.793,0.761,0.11,0.067,125.045,Fuerza Regida,https://i.scdn.co/image/ab67616d0000b2733cac6be4870eed5429b98a31,https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3
+225,225,225,En Terapia,0.743,0.893,0.0589,0.136,94.044,stivijoes,https://i.scdn.co/image/ab67616d0000b27364d474bc58a5f121b06576c4,https://open.spotify.com/album/6Kppd5kRaSfosl6UFXJqjC
+226,226,226,Mas Altas Que Bajadas,0.577,0.573,0.156,0.00561,181.072,Natanael Cano,https://i.scdn.co/image/ab67616d0000b273e2e093427065eaca9e2f2970,https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU
+227,227,227,SABOR FRESA,0.778,0.864,0.0907,0.0898,130.17,Fuerza Regida,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe,https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8
+228,228,228,Un Desperdicio,0.764,0.668,0.101,0.143,148.055,DJnando3,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3
+229,229,229,ATEO,0.772,0.807,0.519,0.00391,83.828,Atmosphere,https://i.scdn.co/image/ab67616d0000b2733d37c7f824d858837aa05264,https://open.spotify.com/album/1ZJLxfZv7wJ7kpugXAmTNu
+230,230,230,"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",0.767,0.72,0.0659,0.0877,139.995,Sevdaliza,https://i.scdn.co/image/ab67616d0000b27314c2bc6e79b87f232c38b547,https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0
+231,231,231,Pacas De Billetes,0.718,0.726,0.0403,0.0889,142.986,Natanael Cano,https://i.scdn.co/image/ab67616d0000b273e2e093427065eaca9e2f2970,https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU
+232,232,232,LA PEOPLE,0.823,0.785,0.0542,0.296,131.849,''El Obama'' Carlos Anderson,https://i.scdn.co/image/ab67616d0000b273ced7f4d521cadc09edca849d,https://open.spotify.com/album/0YEZn03OC5hdFyZoi0upuU
+233,233,233,DEJA VU,0.723,0.618,0.0398,0.0148,127.989,Thouxanbanfauni,https://i.scdn.co/image/ab67616d0000b2735cfae55e2ee292ad59ac53f3,https://open.spotify.com/album/3ErJTcUCdhLkXikZbQ10UQ
+234,234,234,LOU LOU,0.739,0.579,0.0509,0.0622,130.002,Gabito Ballesteros,https://i.scdn.co/image/ab67616d0000b27338c5b1d6170ff3120bbbaf42,https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn
+235,235,235,Moscow Mule,0.493,0.963,0.0638,2.25E-05,147.992,Autoheart,https://i.scdn.co/image/ab67616d0000b2731cac138cde26f65cfc56adc0,https://open.spotify.com/album/5ghZK3FUJXhNJR5Haf6koU
+236,236,236,UNA CERVEZA,0.725,0.801,0.0372,0.0333,135.162,Fuerza Regida,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe,https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8
+237,237,237,todo,0.848,0.895,0.241,0.0309,125.024,DJs From Mars,https://i.scdn.co/image/ab67616d0000b27328e1cf0bd148953fc68db6a6,https://open.spotify.com/album/0TpJOlniJE0sM9JLqCScuh
+238,238,238,BELLAKEO,0.72,0.88,0.101,0.0562,180.011,Peso Pluma,https://i.scdn.co/image/ab67616d0000b2736601556a0f7c0b54ded13c9d,https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0
+239,239,239,TQM,0.388,0.648,0.038,0.116,163.861,Tame Impala,https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49,https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL
+240,240,240,Diamantes,0.662,0.759,0.0353,0.389,92.438,Natanael Cano,https://i.scdn.co/image/ab67616d0000b2738ba65480eb96fff16634644c,https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR
+241,241,241,Soy especial y ellos pa' pasar el rato,0.554,0.437,0.0853,0.705,138.382,Josh,https://i.scdn.co/image/ab67616d0000b2731bd552c567d19fe772a0070d,https://open.spotify.com/album/6R68KRFGI6fppn9hU54Tm2
+242,242,242,La Víctima,0.778,0.835,0.0767,0.152,140.082,Xavi,https://i.scdn.co/image/ab67616d0000b2730e8dc9720dd03d86627fa54b,https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr
+243,243,243,FARDOS,0.785,0.897,0.0332,0.14,121.982,JC Reyes,https://i.scdn.co/image/ab67616d0000b273f9eab1bb8e3d40134c71c68e,https://open.spotify.com/album/5zuOVlAiY3xuuG8l40gJKj
+244,244,244,YW&F - Versión Reggaeton,0.7,0.608,0.0471,0.184,98.033,Oscar Maydon,https://i.scdn.co/image/ab67616d0000b27380c0cca1f04f91858a72ed09,https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT
+245,245,245,SSS y no la de balvin,0.718,0.711,0.11,0.157,173.916,Sammer,https://i.scdn.co/image/ab67616d0000b273734b36a0655aae40d78d70f4,https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf
+246,246,246,ROCKSTAR,0.688,0.466,0.0641,0.29,76.005,<3BEAT,https://i.scdn.co/image/ab67616d0000b2730f3509cd0c8d147aa9f978eb,https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12
+247,247,247,PRC,0.419,0.731,0.0745,0.0762,140.983,N.E.R.D,https://i.scdn.co/image/ab67616d0000b2738d0fa8db33069b60b65ab9a6,https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4
+248,248,248,A Puro Dolor,0.743,0.634,0.0334,0.0632,129.888,Gabito Ballesteros,https://i.scdn.co/image/ab67616d0000b273c5f0277555a99f3816865a00,https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a
+249,249,249,Bailando,0.807,0.644,0.0308,0.669,130.015,Lirow,https://i.scdn.co/image/ab67616d0000b273599bc2cf362460b51a65bae9,https://open.spotify.com/album/2tLJyKsJrOsDZ9E701f3cf
+250,250,250,Proyecto X,0.796,0.55,0.0746,0.137,127.982,Gabito Ballesteros,https://i.scdn.co/image/ab67616d0000b273345f15a9156e7babfb06eedb,https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs
+251,251,251,Tipo Gatsby,0.563,0.84,0.0309,0.021,125.613,Oscar Maydon,https://i.scdn.co/image/ab67616d0000b27376a1666b404e40399c6ea420,https://open.spotify.com/album/6xjZhkCHkn0ofe7rjDImDQ
+252,252,252,Igual Que Un Ángel (with Peso Pluma),0.693,0.0972,0.0367,0.806,84.989,LatinoFi,https://i.scdn.co/image/ab67616d0000b2731137c48acc0c8b633fc0e7ab,https://open.spotify.com/album/5Hb7xpaGpJkplRzkUGj2eE
+253,253,253,Bendecida,0.67,0.476,0.0333,0.0117,110.948,Harshal,https://i.scdn.co/image/ab67616d0000b2733415002c61a4cb2ed9ad3e85,https://open.spotify.com/album/6eGR4e3NzWfLGhzW6qQQ4z
+254,254,254,El Azul,0.561,0.643,0.054,0.232,143.907,Junior H,https://i.scdn.co/image/ab67616d0000b27333ed356efed99b158c4267c6,https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB
+255,255,255,Regalo De Dios,0.792,0.516,0.027,0.197,108.939,Julión Álvarez y su Norteño Banda,https://i.scdn.co/image/ab67616d0000b27301b15b3f93799c1823cde7bd,https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9
+256,256,256,Ojitos Lindos,0.647,0.686,0.0413,0.08,79.928,Bad Bunny,https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72,https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5
+257,257,257,FLASHES,0.839,0.83,0.0479,0.363,117.997,Milky Chance,https://i.scdn.co/image/ab67616d0000b273149900a965e7e59b934b1346,https://open.spotify.com/album/3IBpDDmjwmFBlCRzFLXcFX
+258,258,258,Efecto,0.801,0.475,0.0516,0.141,98.047,Bad Bunny,https://i.scdn.co/image/ab67616d0000b273b442c764549fd5fa1728a2e8,https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy
+259,259,259,Vete,0.462,0.421,0.0496,0.979,184.006,Los Bukis,https://i.scdn.co/image/ab67616d0000b273d63ce58d484ba7df95cab6e9,https://open.spotify.com/album/2K6lStQIEWn0EC6RSGFV4H
+260,260,260,GTA,0.817,0.505,0.319,0.123,76.991,Ginger Billy,https://i.scdn.co/image/ab67616d0000b27356f5359eb516612c0751c704,https://open.spotify.com/album/4SU4dwYwIClnVv2ZTUeqpd
+261,261,261,A 200,0.573,0.716,0.27,0.409,131.781,Ricchie,https://i.scdn.co/image/ab67616d0000b2730a01ac2d378287bb2fc2c51c,https://open.spotify.com/album/0c0HSLNtYbgOEOtHdUr70D
+262,262,262,Brillo,0.771,0.782,0.0341,0.305,125.027,Natanael Cano,https://i.scdn.co/image/ab67616d0000b273e86670a75a657f1c7b492a9f,https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L
+263,263,263,QLONA,0.854,0.374,0.303,0.211,99.978,ILUMINADO DJ,https://i.scdn.co/image/ab67616d0000b2738362998e252882ae690ce0fd,https://open.spotify.com/album/6wh8mEf2TjeE0BONey62le
+264,264,264,O Me Voy O Te Vas,0.684,0.509,0.0397,0.076,99.24,Natanael Cano,https://i.scdn.co/image/ab67616d0000b273c1814d19b44c5e9df7ef33bd,https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97
+265,265,265,FoNo,0.747,0.126,0.79,0.716,94.466,Foo Fighters,https://i.scdn.co/image/ab67616d0000b2732546fe9388054cbc3ec5e573,https://open.spotify.com/album/4Sb67WEPsYgQxd7GItaAtI
+266,266,266,Mente Positiva,0.576,0.604,0.047,0.27,99.746,Junior H,https://i.scdn.co/image/ab67616d0000b2739c076fb69a52578d6441d57e,https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF
+267,267,267,$AD BOYZ II,0.548,0.591,0.0592,0.399,83.411,Junior H,https://i.scdn.co/image/ab67616d0000b273f3ba6742a35f111aaea1ca2f,https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG
+268,268,268,Morritas,0.675,0.611,0.0261,0.593,95.074,Natanael Cano,https://i.scdn.co/image/ab67616d0000b273c94f875eb6edb81631df459a,https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7
+269,269,269,LOCO CON CHOCARTE,0.708,0.54,0.251,0.0138,172.094,Mosby,https://i.scdn.co/image/ab67616d0000b2731d8038661d846c9acc7b4ec4,https://open.spotify.com/album/6zUhLURr78meSu0i3yELFL
+270,270,270,Jálale alv,0.899,0.7,0.11,0.218,134.831,Bb trickz,https://i.scdn.co/image/ab67616d0000b2733a5fe86e21b20c4e94806bfa,https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY
+271,271,271,Primera Cita,0.536,0.396,0.0687,0.604,157.846,Carin Leon,https://i.scdn.co/image/ab67616d0000b273daf12ebec7ae15f8322e1e5e,https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv
+272,272,272,Ch y la Pizza,0.628,0.668,0.117,0.329,148.746,Fuerza Regida,https://i.scdn.co/image/ab67616d0000b273cdbbe3160616f7c85e2eb2c8,https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp
+273,273,273,Cherokee,0.424,0.0169,0.0438,0.993,132.176,Andy Luma,https://i.scdn.co/image/ab67616d0000b273c3329857ffc39ee6c363ba28,https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR
+274,274,274,Como Jordan,0.714,0.873,0.0311,0.028,112.503,Junior H,https://i.scdn.co/image/ab67616d0000b273f0aa183c41ae765922dc9eb7,https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb
+275,275,275,DILUVIO,0.9,0.648,0.162,0.4,91.992,Jeeiph,https://i.scdn.co/image/ab67616d0000b27372577384594bab3ece185a4f,https://open.spotify.com/album/5BJStj50h4eSQddKgwQEll
+276,276,276,Tití Me Preguntó,0.858,0.945,0.0387,0.288,127.989,Alar3,https://i.scdn.co/image/ab67616d0000b27339c712a46e4027cb998363fc,https://open.spotify.com/album/0nUv2ull7WTnKNEpKUD8eM
+277,277,277,Oscuridad,0.731,0.658,0.0343,0.0769,109.982,Jasper,https://i.scdn.co/image/ab67616d0000b273d0c660bb58acd5088616e8eb,https://open.spotify.com/album/1gMMQz8HLNKXfnbvzmhPFV
+278,278,278,Fin de Semana,0.699,0.541,0.0826,0.0628,98.395,Oscar Maydon,https://i.scdn.co/image/ab67616d0000b2739b7e1ea3815a172019bc5e56,https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy
+279,279,279,PERRO NEGRO,0.873,0.53,0.203,0.526,94.978,Super ShanJo,https://i.scdn.co/image/ab67616d0000b2739699b22567e0666f2547d452,https://open.spotify.com/album/1lvNTcLMlZrYggVnDt6KqV
+280,280,280,Lalalalalá,0.948,0.579,0.0928,0.13,121.999,MIKOLAS,https://i.scdn.co/image/ab67616d0000b27340727a5713448b5d0ad22f0a,https://open.spotify.com/album/5Z7s0szSd5N5sMh1Zyq81Y
+281,281,281,CRAZYZ,0.809,0.849,0.0738,0.251,126,Fuerza Regida,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe,https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8
+282,282,282,Apaga El Cel,0.842,0.445,0.0698,0.0349,99.988,Filtramusic,https://i.scdn.co/image/ab67616d0000b273e82f6c1bd7b7222daf3fa6ce,https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ
+283,283,283,Me Porto Bonito,0.885,0.732,0.0687,0.0638,97.004,ILUMINADO DJ,https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72,https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5
+284,284,284,PALETA,0.782,0.798,0.219,0.0815,175.917,Sam Baby,https://i.scdn.co/image/ab67616d0000b273a984d155e786b64360951d4b,https://open.spotify.com/album/3ZzpWXQBa6jvIMh3H79Dha
+285,285,285,Selfies,0.782,0.722,0.0309,0.783,133.826,Natanael Cano,https://i.scdn.co/image/ab67616d0000b2733891d02ec1365af117584de3,https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI
+286,286,286,Igualito a Mi Apá,0.758,0.812,0.0854,0.188,144.908,Fuerza Regida,https://i.scdn.co/image/ab67616d0000b273b5f5b8c4e3540923c0fa1530,https://open.spotify.com/album/6dDLTrADmzUlLg6UdubCbz
+287,287,287,ROMPECABEZAS,0.742,0.887,0.0313,0.0264,119.989,YACO BEATS,https://i.scdn.co/image/ab67616d0000b273d3aae0f5558f3914e17667d9,https://open.spotify.com/album/62NgobeyxKnouiKINZswEI
+288,288,288,EL AMOR DE SU VIDA,0.616,0.834,0.0664,0.06,151.701,Grupo Frontera,https://i.scdn.co/image/ab67616d0000b27382ce4c7bbf861185252e82ae,https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT
+289,289,289,Mi Bello Angel,0.807,0.665,0.0497,0.0185,127.909,Natanael Cano,https://i.scdn.co/image/ab67616d0000b273e2e093427065eaca9e2f2970,https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU
+290,290,290,ELOVRGA,0.808,0.454,0.0434,0.124,130.025,Gerry Garcia,https://i.scdn.co/image/ab67616d0000b273af2631863b091c4662746a56,https://open.spotify.com/album/79aFO3Iefv9rYoBulByzB3
+291,291,291,Guayani,0.566,0.765,0.293,0.144,82.621,Merse,https://i.scdn.co/image/ab67616d0000b2737c2bd190a9d8ef06c140df94,https://open.spotify.com/album/7pvmKLTH2yjUAC44iVikgT
+292,292,292,Alucin,0.787,0.769,0.0335,0.00331,128,Eugenio Esquivel,https://i.scdn.co/image/ab67616d0000b273086a84a764dc341262487967,https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB
+293,293,293,Dile a El,0.818,0.697,0.0367,0.295,126.966,El Chaval de la Bachata,https://i.scdn.co/image/ab67616d0000b2733926e048d839e1173fe17326,https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v
+294,294,294,Yonaguni,0.653,0.139,0.0348,0.916,80.011,Sunday Without You,https://i.scdn.co/image/ab67616d0000b2738edc6a92ed111912c2dd0dda,https://open.spotify.com/album/0bBDXJUNhgX3X04RUh7sJP
+295,295,295,120,0.707,0.341,0.935,0.278,133.7,Matthias Ernst,https://i.scdn.co/image/ab67616d0000b2733f61e22d1f51294577774741,https://open.spotify.com/album/33h43uZPATiOstZijtregL
+296,296,296,Blame Brett,0.461,0.874,0.046,0.00364,156.023,The Beaches,https://i.scdn.co/image/ab67616d0000b273b031aad441b2c4eb2efadf7c,https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc
+297,297,297,Creeper,0.514,0.603,0.0249,0.0254,90.989,Creeper Lagoon,https://i.scdn.co/image/ab67616d0000b273276f184287084a44d36a6a6d,https://open.spotify.com/album/2V4S8ntZSd7ACo2L9QGgCM
+298,298,298,BABY SAID,0.622,0.715,0.0323,0.000982,131.012,Måneskin,https://i.scdn.co/image/ab67616d0000b273c1b211b5fcdef31be5f806df,https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs
+299,299,299,FedEx,0.797,0.644,0.175,0.00881,138.041,Future,https://i.scdn.co/image/ab67616d0000b273e0b64c8be3c4e804abcb2696,https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r
+300,300,300,LosT,0.632,0.613,0.056,0.877,163.149,Miso,https://i.scdn.co/image/ab67616d0000b2731e13a2558a86ef8479468782,https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC
+301,301,301,Marvin Lee,0.492,0.26,0.0921,0.646,111.519,Drake,https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550,https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q
+302,302,302,Run it Up,0.867,0.591,0.128,0.172,148.007,YoungBoy Never Broke Again,https://i.scdn.co/image/ab67616d0000b2738cfc9480119727192bde23af,https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800
+303,303,303,State Of Mind,0.669,0.835,0.0352,0.0118,126.022,Duke & Jones,https://i.scdn.co/image/ab67616d0000b27327475b105a35b8b15a7410cc,https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN
+304,304,304,Embers,0.262,0.00716,0.0382,0.996,160.852,Wilson Trouvé,https://i.scdn.co/image/ab67616d0000b273f9c78212aa98776a5ca53a3f,https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn
+305,305,305,Forgotten One,0.52,0.983,0.0859,0.000971,95.962,mikeeysmind,https://i.scdn.co/image/ab67616d0000b2739c05c8f655b169bedb7501e6,https://open.spotify.com/album/11vcCr84IRwQGCrUxBrYQC
+306,306,306,Hanging by a Thread,0.541,0.864,0.0357,0.00118,124.557,Lifehouse,https://i.scdn.co/image/ab67616d0000b273b734c0ec6754439fe457165d,https://open.spotify.com/album/6UKZ16U5PhlxVPSlKHAilp
+307,307,307,Lay Me Down,0.418,0.332,0.0492,0.771,119.164,Sam Smith,https://i.scdn.co/image/ab67616d0000b273b11bdc91cb9ac6b14f5c1dae,https://open.spotify.com/album/08jWgM4vSkTose4blKBWov
+308,308,308,Straight Shooter,0.612,0.644,0.0288,0.754,119.809,The Mamas & The Papas,https://i.scdn.co/image/ab67616d0000b2732ffab5b5bfbdf1446f793d2c,https://open.spotify.com/album/0CQMTyHzmWKAhY9TV4Zqqc
+309,309,309,Revolution,0.408,0.831,0.208,0.0733,121.38,The Beatles,https://i.scdn.co/image/ab67616d0000b2736e3d3c964df32136fb1cd594,https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs
+310,310,310,Soda Fountain,0.947,0.439,0.109,0.183,109.99,Langston Doobs,https://i.scdn.co/image/ab67616d0000b273b7f908e3ed6f358f4b24045d,https://open.spotify.com/album/5kmKjWshMiHRcEl7vZUqug
+311,311,311,How It B,0.654,0.479,0.0416,0.0142,75.523,Yeat,https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0,https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM
+312,312,312,John Hartleyborne (Must Die),0.556,0.476,0.0257,0.182,93.997,JJ Sterry,https://i.scdn.co/image/ab67616d0000b27380224bb529e07f980fcfc603,https://open.spotify.com/album/5y56xFKo0leMcjWxW34vLR
+313,313,313,Who Will Save You Now,0.218,0.462,0.0557,0.39,119.976,Les Friction,https://i.scdn.co/image/ab67616d0000b273261c46c234190bf659c5cfbc,https://open.spotify.com/album/4ajWyQFixuNTiVRrpyZUw2
+314,314,314,Reprise,0.595,0.448,0.0267,0.925,120.117,salvia palth,https://i.scdn.co/image/ab67616d0000b2734a82bda3507d50ac3e039bb0,https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ
+315,315,315,Big Blue,0.509,0.458,0.0329,0.869,137.109,Hovvdy,https://i.scdn.co/image/ab67616d0000b2736a3b826e7f659680c6832124,https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0
+316,316,316,This Love,0.712,0.862,0.0378,0.0525,95.051,Maroon 5,https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e,https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc
+317,317,317,Guilty,0.566,0.969,0.046,0.0287,100.012,Linkin Park,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33,https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt
+318,318,318,A Little Bit Happy,0.589,0.685,0.0306,0.363,111.903,TALK,https://i.scdn.co/image/ab67616d0000b27319b0bf263b325f4d71f715ca,https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh
+319,319,319,I Don't Know,0.673,0.207,0.0857,0.584,90.024,ETHAN S JASSO,https://i.scdn.co/image/ab67616d0000b27322a98872352b714ce791cedc,https://open.spotify.com/album/7jRf9wXhmvHR5bF71eJjvj
+320,320,320,Shame,0.714,0.665,0.0381,0.00588,133.805,"Evelyn ""Champagne"" King",https://i.scdn.co/image/ab67616d0000b273b9c5b7de1ecc2022bd4aa1c5,https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz
+321,321,321,Resurrection,0.139,0.0484,0.0344,0.103,81.445,Hans Zimmer,https://i.scdn.co/image/ab67616d0000b273166adc280da684b1d54f4126,https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC
+322,322,322,Tough Lover,0.541,0.7,0.279,0.617,94.384,Christina Aguilera,https://i.scdn.co/image/ab67616d0000b273660ee24281a547103f466ff5,https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ
+323,323,323,Ocean On The Moon,0.156,0.0155,0.0457,0.985,136.852,Muse K,https://i.scdn.co/image/ab67616d0000b273a7df6eefbc39c53f3cdf1595,https://open.spotify.com/album/1BJWB89RY7AxOmp4trA9Ym
+324,324,324,MY HAPPINESS,0.445,0.823,0.0302,0.00163,85.935,Enrose,https://i.scdn.co/image/ab67616d0000b273abe66049af6207db84309980,https://open.spotify.com/album/27K3pQ2xfsOt2seavrVhnB
+325,325,325,Pray for You,0.732,0.678,0.0886,0.0867,100.626,The Weeknd,https://i.scdn.co/image/ab67616d0000b27312a76d1b13ef07188f7dfbc9,https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp
+326,326,326,My Eyelash Girl,0.455,0.621,0.0517,0.651,119.043,Travis Scott,https://i.scdn.co/image/ab67616d0000b27312bc68bfeca39fc4457bbed9,https://open.spotify.com/album/76OiTjPkQliYSFEgmfa1xm
+327,327,327,Stay Blessed,0.585,0.485,0.431,0.187,77.733,Bryson Tiller,https://i.scdn.co/image/ab67616d0000b273202e628665f6ae3789c998c1,https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo
+328,328,328,Mountain Blue,0.463,0.462,0.0276,0.366,61.548,Trace Mountains,https://i.scdn.co/image/ab67616d0000b273fd073e1c594fc11a1239eb56,https://open.spotify.com/album/3CSfdbNF4caiB2XG2CAzyx
+329,329,329,Not Strong Enough,0.502,0.798,0.0414,0.00291,126.976,boygenius,https://i.scdn.co/image/ab67616d0000b2735eff76a50afb7c477e1f1e34,https://open.spotify.com/album/5I3AYgFwAzIQlYM2XImPfb
+330,330,330,Looking From a Distance,0.417,0.0909,0.0373,0.959,90.075,Lana Del Rey,https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f,https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c
+331,331,331,God Bless the Irony,0.299,0.422,0.0285,0.0873,67.797,Damedot,https://i.scdn.co/image/ab67616d0000b273cfe3b9117702b68a09e54ca8,https://open.spotify.com/album/5YeR8Om8eLONq8C8pluHn7
+332,332,332,Irrational,0.754,0.59,0.046,0.192,147.107,Iration,https://i.scdn.co/image/ab67616d0000b273507687db42c3a9ac52d6ff8c,https://open.spotify.com/album/2cj7tjVe3FsSfTZCKk1jNk
+333,333,333,I Am The Shadow,0.467,0.727,0.0724,0.0152,144.202,lxakies,https://i.scdn.co/image/ab67616d0000b27381f40f2c3a0b8bbdab6ffbd3,https://open.spotify.com/album/1WgyLqbTSeqOqn8F027W1b
+334,334,334,Nothing To Prove,0.752,0.758,0.114,0.0973,90.493,Jeezy,https://i.scdn.co/image/ab67616d0000b273eda753aad09f1f5ba1b7118c,https://open.spotify.com/album/1MKLofXAlleKOKtg8mGSS7
+335,335,335,Bang Bang,0.707,0.752,0.0885,0.269,150.061,Sohodolls,https://i.scdn.co/image/ab67616d0000b27394180fa573d232e5f5e8a23d,https://open.spotify.com/album/4gtCLfuLYyR9FfRsLaMVF7
+336,336,336,Doubt,0.699,0.419,0.0328,0.836,105.595,No Doubt,https://i.scdn.co/image/ab67616d0000b27374d6d9af056634cb96a6f5ac,https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu
+337,337,337,Almond Eyes,0.627,0.381,0.174,0.541,129.655,Novaa,https://i.scdn.co/image/ab67616d0000b273e176d35f02422b17da3407a8,https://open.spotify.com/album/6eaw3onrYLNw6mCj4CNkRg
+338,338,338,Queen of Hearts,0.658,0.862,0.0535,0.211,169.532,Juice Newton,https://i.scdn.co/image/ab67616d0000b273662ce40b359cf7f6990fbee8,https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc
+339,339,339,Lesson in Disappointment,0.612,0.804,0.0543,0.273,80.771,Jo Dee Messina,https://i.scdn.co/image/ab67616d0000b273cefb195c53a73383add7f5f7,https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n
+340,340,340,Is Metal,0.35,0.967,0.1,0.000153,153.656,Anvil,https://i.scdn.co/image/ab67616d0000b273f88e03910f94af0d1b14dca8,https://open.spotify.com/album/2l3lL1oX1ejmOfZdDZK47W
+341,341,341,Wild,0.889,0.416,0.107,0.224,127.98,Wild Rivers,https://i.scdn.co/image/ab67616d0000b2731ed03f5b06083749733be26a,https://open.spotify.com/album/0OLyRkEk8qQw3z4glKERMm
+342,342,342,Boutique Suite in Funky Fitzroy,0.906,0.564,0.0568,0.000928,122.632,Lipps Inc.,https://i.scdn.co/image/ab67616d0000b273266cdaccaaff3351c2fd0ba1,https://open.spotify.com/album/59oVkMMmg1c08oTPy922xu
+343,343,343,Let Me In Your Band,0.483,0.795,0.181,0.00258,171.853,ENHYPEN,https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554,https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH
+344,344,344,No Ones' Burden,0.313,0.894,0.0294,0.122,149.044,Band of Horses,https://i.scdn.co/image/ab67616d0000b2732b87b0858c3bbf5261698326,https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ
+345,345,345,Cocaine,0.776,0.582,0.0684,0.331,92.031,Paul Cauthen,https://i.scdn.co/image/ab67616d0000b27345b24451fe5d426052100694,https://open.spotify.com/album/14ilon74nd9ITJ1HmNo8oZ
+346,346,346,27,0.681,0.376,0.957,0.616,98.77,Matthias Ernst,https://i.scdn.co/image/ab67616d0000b2733f61e22d1f51294577774741,https://open.spotify.com/album/33h43uZPATiOstZijtregL
+347,347,347,To My Heart,0.633,0.771,0.144,0.0749,81.317,YoungBoy Never Broke Again,https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c,https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW
+348,348,348,No Different,0.867,0.646,0.288,0.303,88.634,Blackstreet,https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b,https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi
+349,349,349,In My Head,0.499,0.181,0.0429,0.745,111.956,ĆEE,https://i.scdn.co/image/ab67616d0000b27395c8b94a974e44d1b600ad5d,https://open.spotify.com/album/0s6KnB4DxWeIJUpzTxoz2L
+350,350,350,Pretty Happy Alone,0.787,0.511,0.0896,0.115,90.538,Able Heart,https://i.scdn.co/image/ab67616d0000b273cc3a980030faef3695fc93ee,https://open.spotify.com/album/6O7mN7j044yXvUdG3q6mDI
+351,351,351,Sever Your Faith,0.636,0.765,0.0512,0.00568,164.96,STXRZ,https://i.scdn.co/image/ab67616d0000b2731acdd69c9c7c699a3416d32c,https://open.spotify.com/album/3q6Ulf0dRhKrLd5P3cwfYl
+352,352,352,I'm Your Waste of Time,0.834,0.535,0.172,0.603,132.984,Daddy Drwg,https://i.scdn.co/image/ab67616d0000b27314ebce2e62965f97705d2ec1,https://open.spotify.com/album/2xQ8XaYie9Zuh913GCa0PB
+353,353,353,SAY THE WORD,0.604,0.817,0.031,0.121,126.966,Nick Smith,https://i.scdn.co/image/ab67616d0000b27382bb88f56a94d826d0603a91,https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ
+354,354,354,FAM,0.841,0.672,0.371,0.0122,157.026,Only The Family,https://i.scdn.co/image/ab67616d0000b2735a150b940ef099e9bea28c55,https://open.spotify.com/album/7HCh4HQHDNZkXphOzb6ugT
+355,355,355,You're Coming Over,0.575,0.845,0.035,0.0282,127.997,Chris Young,https://i.scdn.co/image/ab67616d0000b273d7abfda492de2867ed58b4db,https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0
+356,356,356,Don't Look!,0.575,0.831,0.0356,0.00406,127.991,POORSTACY,https://i.scdn.co/image/ab67616d0000b273de034bbdbe12c86285356121,https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e
+357,357,357,World Got So Dumb,0.667,0.815,0.0719,0.000779,92.562,Beldon Haigh,https://i.scdn.co/image/ab67616d0000b27304a7b94c4fa25e7b1d1fa01a,https://open.spotify.com/album/3xiAttKqJofyQdLCR75OFs
+358,358,358,Nikita,0.632,0.656,0.0277,0.123,86.605,Nikitata,https://i.scdn.co/image/ab67616d0000b2734b50be6866b7da4b1565d2dc,https://open.spotify.com/album/0s6IIJX7DoCrivBPrs8otg
+359,359,359,Love From The Other Side,0.81,0.481,0.0342,0.492,114.995,L'Impératrice,https://i.scdn.co/image/ab67616d0000b273a116310abc520be54dc9d73b,https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n
+360,360,360,Christian Speak (Radio Mix),0.31,0.0102,0.0406,0.995,92.244,Christian Spelz,https://i.scdn.co/image/ab67616d0000b2733e7df7e2f46bc14d5ac92b5b,https://open.spotify.com/album/6ouwfRFcUCky7f2VvoBXay
+361,361,361,You Can Let Go,0.391,0.408,0.0317,0.594,69.399,Crystal Shawanda,https://i.scdn.co/image/ab67616d0000b273e2cb9c37c8552e89053e4641,https://open.spotify.com/album/5MH9ilw7rkFJTypEMZtkwn
+362,362,362,Breathe Out,0.636,0.7,0.421,0.341,88.817,New Life Worship,https://i.scdn.co/image/ab67616d0000b27315c47e8aa93c33dfec6483d6,https://open.spotify.com/album/176F07Kt3PvxraKzwESQEp
+363,363,363,Changeling,0.0905,0.000328,0.049,0.878,88.651,De Janos,https://i.scdn.co/image/ab67616d0000b273f16984944d0f9aa28936ef2f,https://open.spotify.com/album/7MQoVjYeZi5C5kn801Ccwf
+364,364,364,ONE MORE TIME,0.736,0.687,0.0272,0.0266,118.024,bonaira,https://i.scdn.co/image/ab67616d0000b273158f346bb87ede64768c2368,https://open.spotify.com/album/1zuoG7VZotS8HuC5E7ivAJ
+365,365,365,Machine,0.522,0.711,0.0283,0.0895,168.355,Unwritten Law,https://i.scdn.co/image/ab67616d0000b2738ecf4c80620a5f807cb0a631,https://open.spotify.com/album/38atbYU5S7WIrAePHWjK2v
+366,366,366,The Charming Snake,0.431,0.921,0.0491,0.000254,98.801,The Smiths,https://i.scdn.co/image/ab67616d0000b273a09b231129ab1cb1a6efc57f,https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN
+367,367,367,JJ,0.612,0.317,0.0346,0.876,101.678,CoComelon,https://i.scdn.co/image/ab67616d0000b27308b7a7bf0e8e642fe8fd621c,https://open.spotify.com/album/6K7fcWjYUMPRnew4XiXW8D
+368,368,368,Waiting Around,0.551,0.233,0.0312,0.71,89.574,Townes Van Zandt,https://i.scdn.co/image/ab67616d0000b2733c883be3287c02f857e91c06,https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue
+369,369,369,OBSOLETE,0.407,0.95,0.193,0.000103,191.741,Of Mice & Men,https://i.scdn.co/image/ab67616d0000b2738eaa8ea5ed8b61cfeeda605f,https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd
+370,370,370,Loves Hold,0.598,0.58,0.0409,0.575,74.855,"Earth, Wind & Fire",https://i.scdn.co/image/ab67616d0000b273f81891d2e28007ef6b918acd,https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh
+371,371,371,BMFR,0.614,0.351,0.0564,0.0514,140.989,BFDI Music,https://i.scdn.co/image/ab67616d0000b273c33c08b84a81b72d0e6bbd81,https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz
+372,372,372,A Place 4 Me,0.603,0.908,0.184,0.0144,133.063,Linkin Park,https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a,https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM
+373,373,373,Proof,0.396,0.671,0.0351,0.0984,156.072,for KING & COUNTRY,https://i.scdn.co/image/ab67616d0000b273b3e7d09ce7493d8c41c43ac9,https://open.spotify.com/album/6UoU5gg48va0GbZchRK1pw
+374,374,374,The Ones Who Bleed,0.533,0.784,0.0349,0.0967,137.999,Justin Moore,https://i.scdn.co/image/ab67616d0000b273d382cf35635df5d90684f551,https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K
+375,375,375,Fair Shake,0.852,0.846,0.0941,0.00414,110.026,Hanover,https://i.scdn.co/image/ab67616d0000b27370e7d712982eebe93855f01d,https://open.spotify.com/album/7FE3U9NjszxvjCoWY28IHH
+376,376,376,Watching You Again,0.625,0.848,0.0314,0.105,137.993,Rodney Atkins,https://i.scdn.co/image/ab67616d0000b27394dc873336395f0315306a34,https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ
+377,377,377,Soul in Captivity,0.653,0.662,0.026,0.382,104.026,Anita Baker,https://i.scdn.co/image/ab67616d0000b2737a1f2fa4f860ebb5222a7b4b,https://open.spotify.com/album/0Y9RUQkt05rWosiHI9nAYw
+378,378,378,God Is a Circle,0.602,0.658,0.0558,0.0233,145.031,Ariana Grande,https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964,https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9
+379,379,379,Freedom,0.591,0.651,0.0424,0.42,132.538,Wham!,https://i.scdn.co/image/ab67616d0000b273dc682ce03f7dbc0cf239e2c8,https://open.spotify.com/album/2qwPVMQzybhS2jopA0wMy7
+380,380,380,Yung Cheyney,0.507,0.685,0.314,0.0938,138.116,yvngxchris,https://i.scdn.co/image/ab67616d0000b2730b64f0ab78d1706fa2bfd013,https://open.spotify.com/album/0M0TJSodDQNhggONHyu0uQ
+381,381,381,Chris Francis,0.845,0.398,0.0769,0.0553,91.98,Chris Francisco,https://i.scdn.co/image/ab67616d0000b273b605a9db964c7d98cc37979d,https://open.spotify.com/album/6kUjDJQd2NMPYPWX7HJoZc
+382,382,382,Forward Fashion,0.642,0.851,0.0412,0.000744,124.992,Beyoncé,https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23,https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF
+383,383,383,Underground,0.838,0.393,0.041,0.237,95.003,Underground,https://i.scdn.co/image/ab67616d0000b273b30708b7af69aa38389ce5d1,https://open.spotify.com/album/2plK9nhTdfhdjwoqo8vI7h
+384,384,384,The Real Thing,0.615,0.322,0.0282,0.77,113.064,Pink Sweat$,https://i.scdn.co/image/ab67616d0000b273fb70e245035e378d0f583d69,https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1
+385,385,385,Overcome,0.443,0.856,0.0418,0.000269,159.923,Elevation Worship,https://i.scdn.co/image/ab67616d0000b273742ed5c2f02544673a6ce303,https://open.spotify.com/album/6urF2OXed5Be4p4QlqG6lu
+386,386,386,The Balance,0.5,0.0928,0.0276,0.758,103.113,Lord Huron,https://i.scdn.co/image/ab67616d0000b273e4cfc82cd9577997e28b2916,https://open.spotify.com/album/5I0EmV4dGwUSp8bhtXNJTR
+387,387,387,Drones,0.304,0.019,0.312,0.994,66.405,Delta Hz,https://i.scdn.co/image/ab67616d0000b2733c99f509928d1bb0108c86f8,https://open.spotify.com/album/3PUY5HcJ3F92UCN9SKkMlI
+388,388,388,Elisa,0.319,0.0662,0.0353,0.986,70.86,Klaüs,https://i.scdn.co/image/ab67616d0000b273832afd7941b27a88f060bee1,https://open.spotify.com/album/058fiqH1NYYmur8cicws4l
+389,389,389,Rescued,0.431,0.183,0.0469,0.898,204.077,The Rescues,https://i.scdn.co/image/ab67616d0000b2734702f7043e6cd19c786235a2,https://open.spotify.com/album/2SI4AnbdxM95rniW8Upjt6
+390,390,390,Nothing Matters,0.576,0.796,0.0375,0.0219,101.093,The Last Dinner Party,https://i.scdn.co/image/ab67616d0000b273aaa10f339ed589b84c51137d,https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn
+391,391,391,She Is Mighty,0.782,0.317,0.0357,0.567,89.925,Molly Green,https://i.scdn.co/image/ab67616d0000b27392d69eaf4dad7519279b19d2,https://open.spotify.com/album/5PAoP1zl7WNE9j2P0DdaqU
+392,392,392,Unhappier,0.553,0.522,0.0573,0.0492,81.599,Lil Durk,https://i.scdn.co/image/ab67616d0000b27386339e6cd71cc2a167451ee5,https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf
+393,393,393,"Sex, Secrets, Promises",0.572,0.839,0.0377,0.013,143.969,Beach Weather,https://i.scdn.co/image/ab67616d0000b273d965622035c698fefc8c8a4a,https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ
+394,394,394,Lost,0.632,0.613,0.056,0.877,163.149,Miso,https://i.scdn.co/image/ab67616d0000b2731e13a2558a86ef8479468782,https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC
+395,395,395,Just Hold On,0.777,0.414,0.0946,0.00421,100.002,Drake,https://i.scdn.co/image/ab67616d0000b273abc3e4f1937e6d55cb400365,https://open.spotify.com/album/1RFnhgUJ0CsaEkWj8cc3MS
+396,396,396,Someone You Loved,0.456,0.144,0.0358,0.982,104.993,The Piano Guys,https://i.scdn.co/image/ab67616d0000b273b44232c0726b3452383b2268,https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB
+397,397,397,Sunflower - Spider-Man: Into the Spider-Verse,0.7,0.554,0.0747,0.372,179.981,The Cinematic Film Band,https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f,https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs
+398,398,398,Starboy,0.609,0.0445,0.0467,0.993,132,Chilled Pig,https://i.scdn.co/image/ab67616d0000b273b0a752f33c857f2616309370,https://open.spotify.com/album/2783vCVPlMhQERs2zAHfOX
+399,399,399,Dance Monkey,0.824,0.587,0.0937,0.69,98.029,Tones And I,https://i.scdn.co/image/ab67616d0000b2738e8197111f9d57793a5e7eff,https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN
+400,400,400,One Dance,0.788,0.605,0.0578,0.00899,103.94,neko,https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c,https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb
+401,401,401,Wine 4 Me,0.721,0.411,0.0456,0.0595,100.02,YNW Melly,https://i.scdn.co/image/ab67616d0000b2730f5397dc6aa91374897182e0,https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW
+402,402,402,Party,0.556,0.654,0.0459,6.35E-05,152.034,TrackTribe,https://i.scdn.co/image/ab67616d0000b2730ef35a4c82ab98a15d0489ea,https://open.spotify.com/album/0PMDc3DQ2b4jolCqG0QHv0
+403,403,403,I'm Gonna Be Your Slave,0.685,0.717,0.0614,0.0011,139.961,Deep Line,https://i.scdn.co/image/ab67616d0000b27320e0d0c1507631cb3e814821,https://open.spotify.com/album/23H2kiX0yAHMZztnPmjp7A
+404,404,404,STAY (with Justin Bieber),0.585,0.794,0.0521,0.0356,169.965,The Kid LAROI,https://i.scdn.co/image/ab67616d0000b273809ac854713e65ce1f4d4bdd,https://open.spotify.com/album/4Lc269uQdu2XPJC1aZBR1E
+405,405,405,Kryptonite,0.545,0.865,0.0286,0.00664,99.005,3 Doors Down,https://i.scdn.co/image/ab67616d0000b273762495133abe5c1bf215f2f5,https://open.spotify.com/album/0G2SRdxswmTnAehBCW0zqU
+406,406,406,Paper Plane,0.447,0.848,0.222,0.033,172.253,M.I.A.,https://i.scdn.co/image/ab67616d0000b273310d9098fbbde47bf7785637,https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu
+407,407,407,rockstar,0.688,0.466,0.0641,0.29,76.005,<3BEAT,https://i.scdn.co/image/ab67616d0000b2730f3509cd0c8d147aa9f978eb,https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12
+408,408,408,Man,0.84,0.762,0.226,0.00736,99.987,Jennifer Lopez,https://i.scdn.co/image/ab67616d0000b273d5cf73c1679244d959651dff,https://open.spotify.com/album/7pJj6tOX5HCBaYfLPiHfDn
+409,409,409,Jimmy Choo,0.893,0.646,0.1,0.112,132.97,Fetty Wap,https://i.scdn.co/image/ab67616d0000b2737a6de122cf1ea45e2ca48552,https://open.spotify.com/album/085BQHyvkqAlBq6pDQ17Ve
+410,410,410,This Heart Of Mine,0.406,0.843,0.0526,0.0889,150.054,Corey Kent,https://i.scdn.co/image/ab67616d0000b2736a588bdb05c66d769c371560,https://open.spotify.com/album/1AEpYbXIt9lp2hRK7Qqk9F
+411,411,411,Heat Waves,0.761,0.525,0.0944,0.44,80.87,Glass Animals,https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464,https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R
+412,412,412,All Along - Radio Edit,0.429,0.812,0.0657,0.00282,113.279,Jimi Hendrix,https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292,https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ
+413,413,413,Who'll Stop the People - District 12 Mix,0.627,0.873,0.0311,0.00804,123.113,Creedence Clearwater Revival,https://i.scdn.co/image/ab67616d0000b2736e186edfb8fe3710fdc1f7c2,https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG
+414,414,414,Perfect,0.878,0.553,0.302,0.184,98.019,TrackMoney P,https://i.scdn.co/image/ab67616d0000b2739334bb5c973d9e0bc4ebe89e,https://open.spotify.com/album/3T6zizILihSX0F86BWSKnN
+415,415,415,Jiffy,0.833,0.641,0.107,0.355,139.982,WeezGotti,https://i.scdn.co/image/ab67616d0000b2732fde439c61b6579487a3c0e9,https://open.spotify.com/album/7lm637HxmWuBGNjypsgGBf
+416,416,416,Closer,0.738,0.541,0.0303,0.415,94.949,Hillside Recording,https://i.scdn.co/image/ab67616d0000b273dbee877a85cafb4a8e14cdb7,https://open.spotify.com/album/5mPYgyq5dW8y9RCq5wlyWR
+417,417,417,Where The Cavemen Sleep,0.756,0.796,0.039,0.363,92.009,Zac Brown Band,https://i.scdn.co/image/ab67616d0000b273157d6d0762e17e7dc1ad5203,https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT
+418,418,418,Señorita,0.783,0.671,0.0312,0.0372,117.038,Kidz Bop Kids,https://i.scdn.co/image/ab67616d0000b273ee7375860a9e1219f1e9287b,https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ
+419,419,419,Say You Won't Let Go,0.358,0.557,0.059,0.695,85.043,James Arthur,https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab,https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD
+420,420,420,Run It,0.774,0.348,0.429,0.49,166.109,Rundown Spaz,https://i.scdn.co/image/ab67616d0000b2735d2735de3aa59a8ec733de3d,https://open.spotify.com/album/0j25fSIAEhGqAWX6wMDkwx
+421,421,421,lovely (with Khalid),0.246,0.311,0.0368,0.94,115.268,Denial,https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c,https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK
+422,422,422,Watermelon Sugar,0.749,0.884,0.289,0.0628,149.845,Tracy Byrd,https://i.scdn.co/image/ab67616d0000b273227e96dd01634fa0f5c0ed0e,https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3
+423,423,423,Don't Start Now,0.793,0.793,0.083,0.0123,123.95,Dua Lipa,https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f,https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI
+424,424,424,Lucid Dreams,0.124,0.0854,0.0368,0.946,177.591,Frozen Drones,https://i.scdn.co/image/ab67616d0000b273b6e9ee261ec0cb113db829af,https://open.spotify.com/album/1MorLFLLeEBiRPuP88QJXo
+425,425,425,Ghost,0.695,0.677,0.158,0.00468,95.625,Ghostface Killah,https://i.scdn.co/image/ab67616d0000b27305899d5245ad85ace40c2eaf,https://open.spotify.com/album/4imA6mzSbTkAm0GoHh6zRF
+426,426,426,bad guy,0.65,0.477,0.0601,0.00288,152.409,TrackVibes,https://i.scdn.co/image/ab67616d0000b273a69b8b111a5fb8cb1c97e8eb,https://open.spotify.com/album/6lMlX68jJrx67hiCqdiDvW
+427,427,427,Thinking out Loud,0.38,0.145,0.0326,0.988,135.548,The Piano Guys,https://i.scdn.co/image/ab67616d0000b273b44232c0726b3452383b2268,https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB
+428,428,428,if u think i'm pretty,0.535,0.622,0.0593,0.541,143.533,Artemas,https://i.scdn.co/image/ab67616d0000b273fabe0943f6dd962a792b42a1,https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ
+429,429,429,Photograph,0.228,0.103,0.0489,0.99,114.404,Nickelback,https://i.scdn.co/image/ab67616d0000b273bad7e941f557e06019b87fd4,https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm
+430,430,430,Something Just Like This,0.617,0.635,0.0317,0.0498,103.019,The Chainsmokers,https://i.scdn.co/image/ab67616d0000b2730c13d3d5a503c84fcc60ae94,https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr
+431,431,431,Take Me To Church,0.566,0.664,0.0464,0.634,128.945,Hozier,https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2,https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ
+432,432,432,Circles,0.6,0.887,0.063,0.0232,128.088,Audien,https://i.scdn.co/image/ab67616d0000b273f6eae5738c67d6e20117f5a9,https://open.spotify.com/album/6kBEqAAhpa0Dg2hg05MFE2
+433,433,433,Shallow,0.599,0.0378,0.0433,0.994,74.024,Figgy Malone,https://i.scdn.co/image/ab67616d0000b273601e8e67682102f61f0e195a,https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP
+434,434,434,Love Yourself,0.864,0.714,0.278,0.289,137.923,XXXTENTACION,https://i.scdn.co/image/ab67616d0000b2731bfded7104fffd4817e7916d,https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs
+435,435,435,Riptide,0.667,0.258,0.0348,0.978,78.006,Lofi Fruits Music,https://i.scdn.co/image/ab67616d0000b273e3ec9c226cf40028c7461f5d,https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG
+436,436,436,All of Me,0.606,0.72,0.0283,0.000149,127.985,John Legend,https://i.scdn.co/image/ab67616d0000b2733e186705fd0e5565eec92813,https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB
+437,437,437,Thunder,0.622,0.639,0.143,0.623,149.997,Ty Dolla $ign,https://i.scdn.co/image/ab67616d0000b2739b6cff14d6cdf4b6a2be3a4f,https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8
+438,438,438,goosebumps,0.879,0.715,0.193,0.039,75.019,MAKAVELIGODD,https://i.scdn.co/image/ab67616d0000b2739109b0425fb5b36284a24891,https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD
+439,439,439,Broken Bones,0.779,0.486,0.193,0.802,123.993,KALEO,https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b,https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk
+440,440,440,Stressed Out,0.734,0.637,0.141,0.0462,169.977,Twenty One Pilots,https://i.scdn.co/image/ab67616d0000b273352e5ec301a02278ffe53d14,https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1
+441,441,441,Electronic Music - Radio Edit,0.629,0.88,0.0529,0.132,174.523,MooreMusic4U,https://i.scdn.co/image/ab67616d0000b27308e9b07b39079d0411c8f3e3,https://open.spotify.com/album/2LWHJF81fA1bcCJvO0sHR2
+442,442,442,7 rings,0.777,0.317,0.308,0.591,139.848,Ariana Grande,https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8,https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw
+443,443,443,Unavailable,0.788,0.649,0.0532,0.253,113.009,Davido,https://i.scdn.co/image/ab67616d0000b273adfc1ac5836f96adac580271,https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS
+444,444,444,Another Love,0.63,0.207,0.0334,0.736,123.968,Another Lover,https://i.scdn.co/image/ab67616d0000b273662a01258bebe7c3d9e6acd9,https://open.spotify.com/album/0HRCDoXzPUUaAv728BzuGs
+445,445,445,Wake Me Up - Radio Edit,0.459,0.0194,0.0422,0.991,68.06,Figgy Malone,https://i.scdn.co/image/ab67616d0000b273601e8e67682102f61f0e195a,https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP
+446,446,446,Alassa,0.372,0.0108,0.0445,0.995,122.209,Alaskan Tapes,https://i.scdn.co/image/ab67616d0000b273f952a244f80d3dec99d22097,https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6
+447,447,447,SAD!,0.709,0.569,0.261,0.42,92.066,ACROS,https://i.scdn.co/image/ab67616d0000b273ac9337561412f3cb864137a5,https://open.spotify.com/album/7yJJDRGNK5Rn6wKQSKeje9
+448,448,448,What a Night,0.737,0.495,0.027,0.0588,104.409,Frankie Valli & The Four Seasons,https://i.scdn.co/image/ab67616d0000b273206e2e76c3a706e4734d18ab,https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU
+449,449,449,The Hills,0.585,0.564,0.0515,0.0671,113.003,The Weeknd,https://i.scdn.co/image/ab67616d0000b2731e4c6e8c1b72b77b19f98624,https://open.spotify.com/album/0mXeV8wmRQpT7OxUw71WX6
+450,450,450,Let Her Go,0.479,0.545,0.0688,0.365,74.897,Passenger,https://i.scdn.co/image/ab67616d0000b27342859c496ab80d9867ef21b6,https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ
+451,451,451,Sun Shine In,0.833,0.585,0.0518,0.0755,112.986,YOOKiE,https://i.scdn.co/image/ab67616d0000b273ffe7a64408196f11d70b811c,https://open.spotify.com/album/5tght1mFiO2ezt5lz9L2IS
+452,452,452,Jocelyn Flores,0.662,0.136,0.0309,0.833,66.033,XXXTENTACION,https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5,https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0
+453,453,453,Coaluī,0.366,0.0716,0.0416,0.982,105.854,Les Rêveries,https://i.scdn.co/image/ab67616d0000b27353281be730b80541c4c6088c,https://open.spotify.com/album/153JmAA3a2Rf9ms6W1dEiR
+454,454,454,ICI,0.352,0.691,0.0428,0.0294,145.006,Purple Citron,https://i.scdn.co/image/ab67616d0000b273fef685e34866a410705666df,https://open.spotify.com/album/1oTJyPz0x9b8BJaaBjU00V
+455,455,455,Found Grace,0.535,0.895,0.0497,0.00442,105.044,Conan Gray,https://i.scdn.co/image/ab67616d0000b27323e2af3e96fa7af0bd297e38,https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5
+456,456,456,Nobody,0.662,0.696,0.333,0.00779,144.823,Reace Sosa,https://i.scdn.co/image/ab67616d0000b27304fd7022abd6ac9d6fedeb70,https://open.spotify.com/album/7BiFhcHM33aOGupfY8Bojj
+457,457,457,Stand on Business,0.621,0.682,0.419,0.0692,84.811,Lil Rae,https://i.scdn.co/image/ab67616d0000b273fd9e6c232e966114ebd4668a,https://open.spotify.com/album/3OBt8h2fJYTxhFRRLYzWp5
+458,458,458,Demons,0.745,0.681,0.108,0.00132,148.083,shebeel,https://i.scdn.co/image/ab67616d0000b2739315896d3cdd917c40d1bd8d,https://open.spotify.com/album/1BDO9R8ovAsHxkos2wGlxm
+459,459,459,Desafinada,0.507,0.309,0.0383,0.784,82.052,João Gilberto,https://i.scdn.co/image/ab67616d0000b273708f52c18cd44bc9addfe386,https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8
+460,460,460,Pobre,0.839,0.361,0.0748,0.646,118.014,Los Armadillos de la Sierra,https://i.scdn.co/image/ab67616d0000b273da3a7aac3400239db7a0e2f5,https://open.spotify.com/album/15IyAl41D622oIyzmvf6hi
+461,461,461,Bad Bitches,0.78,0.572,0.395,0.07,172.864,BigXthaPlug,https://i.scdn.co/image/ab67616d0000b2733f8455eeaf0125c7b179840c,https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a
+462,462,462,Polar E Flow,0.67,0.879,0.108,0.353,145.2,Tom Hanks,https://i.scdn.co/image/ab67616d0000b273c5072db0b9da93a2f01d02f5,https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk
+463,463,463,Hou qike qike,0.372,0.641,0.149,0.216,67.82,颜人中,https://i.scdn.co/image/ab67616d0000b2734b8132f25a442592527c3b51,https://open.spotify.com/album/1LHfgIAde2EiTEQ0bv2Md5
+464,464,464,Biggest F,0.764,0.448,0.362,0.00718,157.97,BossMan Dlow,https://i.scdn.co/image/ab67616d0000b273234bd6e89b3fdd30080447bd,https://open.spotify.com/album/3ESmtTRJZkIjPShkV48tdL
+465,465,465,One Kiss (with Dua Lipa),0.791,0.862,0.11,0.037,123.994,Calvin Harris,https://i.scdn.co/image/ab67616d0000b273d09f96d82310d4d77c14c108,https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581
+466,466,466,Answers,0.309,0.631,0.0312,0.000202,145.583,"Tyler, The Creator",https://i.scdn.co/image/ab67616d0000b273ecdf37c0fb7d35f589e2fb4d,https://open.spotify.com/album/4jEKedq9rWPV9OXuMkrZCa
+467,467,467,good 4 u,0.563,0.664,0.154,0.335,166.928,Olivia Rodrigo,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a,https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j
+468,468,468,Da Plug,0.913,0.36,0.401,0.00767,125.034,BigXthaPlug,https://i.scdn.co/image/ab67616d0000b273764694a990ea0275c5cbf927,https://open.spotify.com/album/4eiXr1GtwXa5S9iQkUB2Q3
+469,469,469,drivers license,0.561,0.431,0.0578,0.768,143.875,Octavien X,https://i.scdn.co/image/ab67616d0000b273bdf5ed83a765fd10a97f08f1,https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA
+470,470,470,All I Wanna Do,0.626,0.746,0.0282,0.16,102.896,Heart,https://i.scdn.co/image/ab67616d0000b27357850545c0dc2cc537186070,https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m
+471,471,471,XO Tour Llif3,0.732,0.75,0.231,0.00264,155.096,Lil Uzi Vert,https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c,https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE
+472,472,472,Surrender,0.663,0.804,0.0528,0.218,122.035,Jvson,https://i.scdn.co/image/ab67616d0000b27329e789236077eb95b3176dea,https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D
+473,473,473,Over You,0.829,0.587,0.152,0.0525,130.028,C.WATTS,https://i.scdn.co/image/ab67616d0000b2737a4cec519356c847ff42c795,https://open.spotify.com/album/1OCvwGALAkvwreUaDOnKBH
+474,474,474,SICKO MODE,0.834,0.73,0.222,0.00513,155.008,Travis Scott,https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3,https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I
+475,475,475,Happier,0.785,0.831,0.0444,0.0038,126.056,The Blessed Madonna,https://i.scdn.co/image/ab67616d0000b2735d564f7de772a0675ab893be,https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o
+476,476,476,Love is Blind,0.694,0.523,0.0531,0.13,100.977,Ravyn Lenae,https://i.scdn.co/image/ab67616d0000b273d7a02665542252543455f929,https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g
+477,477,477,Sequiem,0.963,0.826,0.0401,0.1,130.037,ROMANTICA,https://i.scdn.co/image/ab67616d0000b27316b2f50434857bd68a37d7fd,https://open.spotify.com/album/21Y2KDAvmbyaENzKIeO2Lj
+478,478,478,Seventeen Going Under,0.477,0.873,0.0355,0.00471,161.948,Sam Fender,https://i.scdn.co/image/ab67616d0000b273504b74c88ce63e33826c553b,https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4
+479,479,479,Die For You,0.586,0.525,0.0615,0.111,133.629,The Weeknd,https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a,https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB
+480,480,480,Let Me Love You,0.622,0.593,0.0916,0.163,94.364,Mario,https://i.scdn.co/image/ab67616d0000b273c2248a5b79dededa74edfde0,https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp
+481,481,481,New Rules,0.762,0.7,0.0694,0.00261,116.073,Dua Lipa,https://i.scdn.co/image/ab67616d0000b273838698485511bd9108fadadc,https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9
+482,482,482,Song 2,0.674,0.789,0.0676,0.00178,129.802,Blur,https://i.scdn.co/image/ab67616d0000b27334cbf7013afccc7df67fa43f,https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x
+483,483,483,Sex On Fire,0.542,0.905,0.054,0.00172,153.398,Kings of Leon,https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8,https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp
+484,484,484,Live Forever,0.286,0.822,0.0381,2.31E-05,90.96,Oasis,https://i.scdn.co/image/ab67616d0000b273d86a1e021e7acc7c07c7d668,https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY
+485,485,485,I Bet You Look Good On The Dancefloor,0.535,0.948,0.0356,0.00225,103.183,Arctic Monkeys,https://i.scdn.co/image/ab67616d0000b273753ff61c73b2861911ce590d,https://open.spotify.com/album/7Heaa0B4KOxdWhSICTR2wE
+486,486,486,Love Will Tear Us Apart,0.527,0.923,0.0379,0.000541,146.924,Joy Division,https://i.scdn.co/image/ab67616d0000b2731e0fdc2906851e29d09320c3,https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G
+487,487,487,Last Nite,0.496,0.688,0.0355,0.446,204.01,Morgan Wallen,https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2,https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk
+488,488,488,She Bangs the Drums - Remastered 2009,0.339,0.976,0.0909,0.00649,144.723,The Stone Roses,https://i.scdn.co/image/ab67616d0000b273cf1f6466a493eb73d6d9d280,https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw
+489,489,489,Seven Nation Army,0.743,0.446,0.0683,0.0039,123.596,The White Stripes,https://i.scdn.co/image/ab67616d0000b2738b644b0543e2816dcca897f6,https://open.spotify.com/album/6XN8b2NIomlwPOoBlILqXv
+490,490,490,Take Me Out,0.277,0.663,0.0377,0.000409,104.561,Franz Ferdinand,https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4,https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z
+491,491,491,Shoot the Runner,0.593,0.27,0.0274,0.892,74.652,Upchurch,https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec,https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl
+492,492,492,Common People,0.314,0.797,0.038,0.0057,145.393,Pulp,https://i.scdn.co/image/ab67616d0000b273fd952bece8f049dbcd7df93f,https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x
+493,493,493,Don't Look Back into the Sun,0.211,0.849,0.116,0.00605,175.616,The Libertines,https://i.scdn.co/image/ab67616d0000b2739bfb9aa47c2b4656fccca88f,https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI
+494,494,494,Somebody Told Me,0.497,0.97,0.0836,9.04E-05,138.081,The Killers,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d,https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg
+495,495,495,Time to Pretend,0.438,0.94,0.0452,8.74E-05,100.99,Lazer Boomerang,https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb,https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv
+496,496,496,I Predict A Riot,0.423,0.975,0.397,0.00372,172.046,Kaiser Chiefs,https://i.scdn.co/image/ab67616d0000b273fbf677cc74cd86f65094d487,https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK
+497,497,497,Young Folks,0.699,0.812,0.0377,0.0164,138.185,Peter Bjorn and John,https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6,https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2
+498,498,498,Here Comes Your Man,0.669,0.795,0.0285,0.00772,124.594,Pixies,https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25,https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN
+499,499,499,Use Somebody,0.276,0.715,0.0432,0.00552,137.028,Kings of Leon,https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8,https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp
+500,500,500,Bitter Sweet Symphony,0.356,0.917,0.0479,0.0335,171.176,The Verve,https://i.scdn.co/image/ab67616d0000b273707d13d3f87652e737e94d45,https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD
+501,501,501,Banquet,0.578,0.892,0.0441,0.000139,150.255,Bloc Party,https://i.scdn.co/image/ab67616d0000b273c8bd088c6f973c16c818df7b,https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5
+502,502,502,You've Got The Love,0.574,0.704,0.0319,0.00455,109.999,Florence + The Machine,https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce,https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ
+503,503,503,Golden Skans,0.463,0.836,0.0381,0.000418,141.955,Klaxons,https://i.scdn.co/image/ab67616d0000b273a6ba454df44d588fbc6bc983,https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg
+504,504,504,Just,0.656,0.565,0.0323,0.481,122.935,Lane 8,https://i.scdn.co/image/ab67616d0000b2735148592ee1fe2e60ad723e01,https://open.spotify.com/album/4zLfNaRJqdNQ0yQQSI7kvD
+505,505,505,When The Sun Goes Down,0.798,0.741,0.0284,0.0432,104.945,Kenny Chesney,https://i.scdn.co/image/ab67616d0000b273f99b8abff8bbeaa94b552b68,https://open.spotify.com/album/6hfbnXAct53LwoVlO2xQKH
+506,506,506,A-Punk,0.604,0.507,0.0268,0.0776,79.039,Radiohead,https://i.scdn.co/image/ab67616d0000b2736fcaf88cf47dbc8e42b34c1d,https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp
+507,507,507,Fools Gold,0.515,0.773,0.0479,0.23,128.001,One Direction,https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4,https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY
+508,508,508,This Charming Man (2008 Remastered Version),0.611,0.846,0.0436,0.00509,103.912,The Smiths,https://i.scdn.co/image/ab67616d0000b273a09b231129ab1cb1a6efc57f,https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN
+509,509,509,Step On,0.331,0.471,0.0299,0.00644,90.057,The Cardigans,https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af,https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ
+510,510,510,Can't Stand Me Now,0.368,0.936,0.0623,0.0146,164.427,The Libertines,https://i.scdn.co/image/ab67616d0000b2735144be38fbfe8341bd9f6577,https://open.spotify.com/album/6e08x8yl3kqY3aTjcbRhij
+511,511,511,Animal Nitrate (Remastered),0.482,0.833,0.0449,0.000346,148.039,Neon Trees,https://i.scdn.co/image/ab67616d0000b27326ca7305db69aa21efcf2b7a,https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g
+512,512,512,Apply Some Pressure,0.682,0.698,0.288,0.337,139.949,Maximo Park,https://i.scdn.co/image/ab67616d0000b27389fb404798ffe5ebf7d643d4,https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop
+513,513,513,Fire,0.734,0.597,0.0366,0.209,95.003,Arc De Soleil,https://i.scdn.co/image/ab67616d0000b2737f274878c3f47d0fed07802c,https://open.spotify.com/album/4pfB2593onELG0m2VxT4eg
+514,514,514,The Cave,0.732,0.786,0.0469,0.0791,100.996,The Cavemen.,https://i.scdn.co/image/ab67616d0000b273e1646619405fc81937e8ac94,https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU
+515,515,515,Pumped up Kicks,0.733,0.71,0.0292,0.145,127.975,Foster The People,https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5,https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT
+516,516,516,Chelsea Dagger,0.512,0.817,0.142,0.0505,154.607,The Fratellis,https://i.scdn.co/image/ab67616d0000b27390b7c466e878862b5a9cece3,https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg
+517,517,517,America,0.199,0.602,0.0355,0.23,137.563,American Football,https://i.scdn.co/image/ab67616d0000b273f9c6c2c9e047a2963aae3565,https://open.spotify.com/album/1oKympEq5JvFhS1asxnF8A
+518,518,518,Monster,0.466,0.791,0.0882,0.0232,153.528,Xxstarlife,https://i.scdn.co/image/ab67616d0000b273fba95a78235cb1d98f516b20,https://open.spotify.com/album/1JjlC7lq1Oq8KCFybHRnIH
+519,519,519,Ruby,0.56,0.13,0.131,0.964,79.647,Sleepermane,https://i.scdn.co/image/ab67616d0000b273327288847ed2cbdae240f6e1,https://open.spotify.com/album/3xSTkNRA1Qwb4aVQz6A4om
+520,520,520,Same Jeans,0.479,0.967,0.0431,0.00697,134.743,The View,https://i.scdn.co/image/ab67616d0000b273ee2eaf8d3ad70ece3215fdd2,https://open.spotify.com/album/12yQO4oDX8b62BBayoyHRM
+521,521,521,Alright,0.409,0.726,0.0689,0.000619,159.968,Goreshit,https://i.scdn.co/image/ab67616d0000b2731be157afc9d9c293330c726f,https://open.spotify.com/album/71ExPTspKRerYv03k0YUS0
+522,522,522,Hard To Explain,0.408,0.666,0.0578,0.000455,82.523,Future,https://i.scdn.co/image/ab67616d0000b273935d8d5369bc55e74a39303e,https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit
+523,523,523,She Moves In Her Own Way,0.431,0.81,0.066,0.276,76.412,The Kooks,https://i.scdn.co/image/ab67616d0000b2736e8b31b2e7cec192c603eece,https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz
+524,524,524,Molly's Chambers,0.598,0.911,0.0515,0.222,146.469,Kings of Leon,https://i.scdn.co/image/ab67616d0000b273ca0747ecddae247a0ab1fde5,https://open.spotify.com/album/28OqRj89nMCysbF2EANXej
+525,525,525,Babies,0.189,0.0703,0.0446,0.833,88.339,White Noise for Babies,https://i.scdn.co/image/ab67616d0000b2736195d848b16c23e7d20e79a5,https://open.spotify.com/album/3XCQvI46NhUW50vLCNnPCT
+526,526,526,Autorretrato en Blanco - Versión Lofi,0.472,0.37,0.0305,0.145,92.041,Los Jardines De Bruselas,https://i.scdn.co/image/ab67616d0000b27384335102c82bce7d00e7b6ae,https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY
+527,527,527,Fantasmas,0.271,0.423,0.0277,0.669,47.79,Ambar Lucid,https://i.scdn.co/image/ab67616d0000b273f588a473fd2c39eab12a6b57,https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS
+528,528,528,Mami,0.833,0.763,0.198,0.0591,105.878,Deltron 3030,https://i.scdn.co/image/ab67616d0000b273210c8f856757abec0806209c,https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye
+529,529,529,Mirando,0.57,0.853,0.0259,9.57E-05,145.069,Miranda Lambert,https://i.scdn.co/image/ab67616d0000b273753e552f06e10a4987ea455b,https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn
+530,530,530,tuviste,0.543,0.475,0.0266,0.498,79.963,Bratty,https://i.scdn.co/image/ab67616d0000b2735fa07d78a3d3885ded030cf6,https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T
+531,531,531,Autorretrato en Blanco,0.472,0.37,0.0305,0.145,92.041,Los Jardines De Bruselas,https://i.scdn.co/image/ab67616d0000b27384335102c82bce7d00e7b6ae,https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY
+532,532,532,El Espejo,0.55,0.675,0.0278,0.733,97.996,Yuri,https://i.scdn.co/image/ab67616d0000b2739db5154ddbdfe4e3f0b5984a,https://open.spotify.com/album/4JJHICkORaZxfyUZ3So74m
+533,533,533,Amapolas,0.784,0.689,0.0385,0.759,124.025,Leo Rizzi,https://i.scdn.co/image/ab67616d0000b27318330837f8c498291c4b44b7,https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY
+534,534,534,1001 Noches,0.748,0.934,0.0338,0.111,102.985,Fonseca,https://i.scdn.co/image/ab67616d0000b27352c1c6367b2ac402b31810b2,https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW
+535,535,535,Sensación,0.709,0.726,0.0411,0.0977,92.006,De La Ghetto,https://i.scdn.co/image/ab67616d0000b27395efcedfc7f85ef8bc0a37b6,https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da
+536,536,536,Objetivo: La Tierra,0.692,0.834,0.0383,0.552,157.908,Fuerza Regida,https://i.scdn.co/image/ab67616d0000b273ccf9df5e0e56143df72ec08b,https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW
+537,537,537,Que No Sé,0.55,0.512,0.0985,0.482,187.611,Los Invasores De Nuevo León,https://i.scdn.co/image/ab67616d0000b273e5732a99aa0ebefddd98391c,https://open.spotify.com/album/3e3CeEfRSURpxK7NW2KJso
+538,538,538,Vida Real,0.556,0.735,0.068,0.764,109.801,Beto Vega,https://i.scdn.co/image/ab67616d0000b273da73e1a83b3fcc89fcfc30b6,https://open.spotify.com/album/3XBqT1iZijk9y4LKiEt2hJ
+539,539,539,3024,0.718,0.179,0.149,0.355,170.11,Blake Avel,https://i.scdn.co/image/ab67616d0000b273a8987861ecf00d779f6db415,https://open.spotify.com/album/0AzigmcT52rfCpop9fGnjS
+540,540,540,Fatal,0.566,0.819,0.147,0.0948,179.785,Kontra K,https://i.scdn.co/image/ab67616d0000b273f0c5a4a9fe287a21d136075d,https://open.spotify.com/album/1AltC4ywUTBQodlAieAViM
+541,541,541,Nagano,0.686,0.12,0.189,0.813,69.992,Raimu,https://i.scdn.co/image/ab67616d0000b27327fd605decdf87616beecc54,https://open.spotify.com/album/356cG1eRgagHScUsqMbUyo
+542,542,542,Siglos,0.733,0.57,0.0975,0.76,99.984,Esteban Pedraza,https://i.scdn.co/image/ab67616d0000b273a6c4bffd85d3aaad3672fb93,https://open.spotify.com/album/3FvJRQlCdauzcBkNWBuIPW
+543,543,543,como si nada,0.759,0.576,0.363,0.405,178.173,ADSO,https://i.scdn.co/image/ab67616d0000b273ddee706e207b5f197c6f7e37,https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi
+544,544,544,Islas Desiertas,0.601,0.312,0.0334,0.00792,141.98,Casero,https://i.scdn.co/image/ab67616d0000b2737542b8b1ca7b700ea0f43113,https://open.spotify.com/album/2DlQZS8tpRPhpc5AiGt6z3
+545,545,545,Contame un Cuento,0.541,0.666,0.0277,0.603,147.055,La Arrolladora Banda El Limón De Rene Camacho,https://i.scdn.co/image/ab67616d0000b2733fa84689e7a2d6cf51f1061c,https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik
+546,546,546,Otra Galaxia,0.735,0.716,0.0899,0.0607,75.968,Hector Mario,https://i.scdn.co/image/ab67616d0000b2738139110758aca8b9c5c029aa,https://open.spotify.com/album/7oHbVRRZAv0cR8LqKIXnqV
+547,547,547,Ya No Te Hago Falta,0.56,0.311,0.038,0.934,180.05,Sen Senra,https://i.scdn.co/image/ab67616d0000b273a4268639fb789e5b44b4ca53,https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9
+548,548,548,Cosas Tristes,0.729,0.579,0.0378,0.255,83.009,Los Rehenes,https://i.scdn.co/image/ab67616d0000b2732ba0006089693ada6a993602,https://open.spotify.com/album/35m8GJ9EtVX88Yj7NmWqsg
+549,549,549,Círculos,0.75,0.874,0.0444,0.0497,100.038,El Gran Silencio,https://i.scdn.co/image/ab67616d0000b273ec0610cc0c8334f1cfcc0567,https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL
+550,550,550,Tomando este camino,0.522,0.835,0.0443,0.0406,177.968,Officialalex425,https://i.scdn.co/image/ab67616d0000b273e71e7cbc24fb091fe0cfdf15,https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2
+551,551,551,Desierto,0.627,0.543,0.0634,0.0822,169.997,MasterBTS Productions,https://i.scdn.co/image/ab67616d0000b2731cc64e8db6e329a378361fe4,https://open.spotify.com/album/6Ft7VasrNpPp0SuABQpRZJ
+552,552,552,Deslices,0.293,0.252,0.0306,0.746,85.131,Simone,https://i.scdn.co/image/ab67616d0000b273cde94615fcd6dcb0085d9668,https://open.spotify.com/album/41LKbvBasx5u7qEP0zGvrE
+553,553,553,Acercamiento,0.286,0.284,0.0318,0.693,137.344,Maverick City Music,https://i.scdn.co/image/ab67616d0000b273a60e21e0a0312ebd24fa510e,https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD
+554,554,554,Idiota,0.484,0.58,0.256,0.354,160.138,Joan Sebastian,https://i.scdn.co/image/ab67616d0000b273078eeb66acfcc9c323fe2a76,https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV
+555,555,555,Nueva Canción,0.535,0.901,0.0527,0.0265,126.017,BJ Putnam,https://i.scdn.co/image/ab67616d0000b273134b47f9c3ccfced1b3c49fd,https://open.spotify.com/album/3189s1MtoDZbXx1RULMbdw
+556,556,556,Los Naranjos,0.826,0.585,0.267,0.00236,115.851,Los Naranjos,https://i.scdn.co/image/ab67616d0000b273a385acd15e3bcfee04f4107f,https://open.spotify.com/album/2UqeCKHdaKFE3jkZTYwncf
+557,557,557,Mientras el Mundo se Apaga,0.759,0.532,0.0336,0.22,127.031,Junior H,https://i.scdn.co/image/ab67616d0000b2739becf65203db9b43ae084149,https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft
+558,558,558,Típica Cara,0.802,0.752,0.0372,0.0685,147.376,Novedades Carminha,https://i.scdn.co/image/ab67616d0000b273aaf4ed0932db1ab9051592bf,https://open.spotify.com/album/5ytGOpOz55Ujo934YIO5Xw
+559,559,559,llueve,0.486,0.794,0.0336,0.0309,107.848,Los Bunkers,https://i.scdn.co/image/ab67616d0000b27322d0a8dce4b87e35592b4e31,https://open.spotify.com/album/2D1fN7Gqs5lUtqkU2NdMfS
+560,560,560,esa carita,0.676,0.551,0.0318,0.35,81.47,Ivan Cornejo,https://i.scdn.co/image/ab67616d0000b273cac05abe84bc80e4f1c63b5c,https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk
+561,561,561,Formas,0.594,0.0959,0.0308,0.874,107.626,Cedarmont Kids,https://i.scdn.co/image/ab67616d0000b273dfd0625f70b1d297a67543de,https://open.spotify.com/album/74ca4MQy3cfsZNyvNMpNTE
+562,562,562,Tiempos Bajo el Sol,0.795,0.662,0.0642,0.69,110.094,Diferente Nivel,https://i.scdn.co/image/ab67616d0000b273e159e2b99e7917bb43dedeac,https://open.spotify.com/album/32FleWdeEFYyvit5Vr09uC
+563,563,563,Dominas,0.629,0.915,0.0463,4.39E-05,130.263,ARXMANE,https://i.scdn.co/image/ab67616d0000b27330ba5d184e88d43f97a8e0fe,https://open.spotify.com/album/3FRP5wEYNuGqhPl0v5jM7x
+564,564,564,Acuario,0.753,0.583,0.0384,0.669,91.97,Disco Bahía,https://i.scdn.co/image/ab67616d0000b273ffcf2593726551f55d4fcfec,https://open.spotify.com/album/4Z95TOV6oPEPgQ1LRs9TPg
+565,565,565,Dime Que Me Calle,0.783,0.625,0.0379,0.042,119.305,Irenegarry,https://i.scdn.co/image/ab67616d0000b2731d840fafb504152c7f03dd01,https://open.spotify.com/album/7zVM8tux29K37ZHeoMOf1z
+566,566,566,Al Final Abrazos,0.349,0.667,0.0341,0.502,138.461,Lilly Goodman,https://i.scdn.co/image/ab67616d0000b273511f56538277452bd1c8d6eb,https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8
+567,567,567,Está Bien,0.496,0.756,0.0385,0.0432,154.934,PRISMA Más Vida,https://i.scdn.co/image/ab67616d0000b273e797a2a19a7fb94b421014ed,https://open.spotify.com/album/1MVFDXFG2voDB4vUKnvKlF
+568,568,568,Paciencia,0.861,0.188,0.0635,0.899,140.058,Kora,https://i.scdn.co/image/ab67616d0000b273bbe983527ce62ffd3d06cf22,https://open.spotify.com/album/0F3HOT0E0Jj2MSnPm6tq4n
+569,569,569,tu gotelé,0.872,0.854,0.212,0.234,95.01,KAROL G,https://i.scdn.co/image/ab67616d0000b273c2e05d426c037a71556c9f14,https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA
+570,570,570,(H)olas,0.758,0.233,0.0385,0.0237,103.976,Anyi,https://i.scdn.co/image/ab67616d0000b27310fca4d83d4733f66990302d,https://open.spotify.com/album/2m3roRDdob7hQabnbqJA6C
+571,571,571,Caímos las dos,0.695,0.796,0.0361,0.0174,114.804,Caos,https://i.scdn.co/image/ab67616d0000b27391fe540fddb02ab8162ae758,https://open.spotify.com/album/0omylKjxtVCeRxgFT6PSjx
+572,572,572,mi cielo,0.715,0.642,0.0515,0.0687,105.964,Sky Rompiendo,https://i.scdn.co/image/ab67616d0000b27306eccb4893fa58ae311c45ea,https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f
+573,573,573,desastre natural,0.825,0.613,0.0941,0.0158,117.052,KSLV Noh,https://i.scdn.co/image/ab67616d0000b2731115e7ebc1eae4e6b9027de6,https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC
+574,574,574,Si Se Acaba,0.7,0.474,0.048,0.218,127.177,Ingrid Contreras,https://i.scdn.co/image/ab67616d0000b2737af8b51d7c534931df508ed7,https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw
+575,575,575,Juego De Escape,0.634,0.709,0.0363,0.00194,130.072,Grupo Ginsu,https://i.scdn.co/image/ab67616d0000b2739518d33762d8834840bc5af5,https://open.spotify.com/album/1AQd6aI94fhSZsqz3UTS8G
+576,576,576,Alguien Normal,0.662,0.519,0.0369,0.476,140.034,Carin Leon,https://i.scdn.co/image/ab67616d0000b273a04e5df68ea4c891a4252c7e,https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN
+577,577,577,Estrella Fugaz,0.658,0.732,0.0726,0.192,169.948,Chris Lebron,https://i.scdn.co/image/ab67616d0000b2738ed0936147611d3e61bd6d3d,https://open.spotify.com/album/25off3TYlfdipMDUwDOz5W
+578,578,578,Al Final,0.349,0.667,0.0341,0.502,138.461,Lilly Goodman,https://i.scdn.co/image/ab67616d0000b273511f56538277452bd1c8d6eb,https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8
+579,579,579,Libertad,0.687,0.828,0.101,0.122,123.949,Julissa,https://i.scdn.co/image/ab67616d0000b273d0b064ea13a485ab4e184a29,https://open.spotify.com/album/2Mt3HSH1nF47vcM5KLQhdk
+580,580,580,No Más,0.64,0.722,0.0452,0.591,111.834,Threestyle,https://i.scdn.co/image/ab67616d0000b2739a2f9c931df2838ef9f16ea1,https://open.spotify.com/album/7KB7wcCX9L5YRqlt5rLluC
+581,581,581,Fuego,0.59,0.859,0.0469,0.0229,109.9,Billy Bunster,https://i.scdn.co/image/ab67616d0000b2739599dc21ab2236f2835888a2,https://open.spotify.com/album/1u3iU0gJHjWgn73aUmyGPm
+583,583,583,Visitarte,0.682,0.923,0.115,0.132,77.614,Hombres G,https://i.scdn.co/image/ab67616d0000b2735a6182a76ba2e4d04d9cf93f,https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy
+584,584,584,clones de ti,0.584,0.192,0.0419,0.484,87.882,Chevelle,https://i.scdn.co/image/ab67616d0000b273559c39b90a67a44cc6eeb645,https://open.spotify.com/album/712GiryIASZgdBXk1aARVg
+585,585,585,si mirarte es delito q me lleven a prision,0.609,0.306,0.0349,0.858,174.875,Rebe,https://i.scdn.co/image/ab67616d0000b273334833845e2469baf69e5e22,https://open.spotify.com/album/7hBN4BzxMiCWhubOXrLEUe
+586,586,586,Lamento Boliviano,0.714,0.735,0.0306,0.176,123.57,Los Enanitos Verdes,https://i.scdn.co/image/ab67616d0000b27335bf8a2179962114b8ec7585,https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a
+587,587,587,Devuélveme a mi chica,0.679,0.781,0.051,0.019,89.924,Soñadores,https://i.scdn.co/image/ab67616d0000b27301ea259f84d6bb6cff1f5bb1,https://open.spotify.com/album/5ra4Wq95jmW7FQqHvE0TE5
+588,588,588,Oye Mi Amor,0.665,0.276,0.0583,0.881,142.983,Covers,https://i.scdn.co/image/ab67616d0000b27381083c89b0889361265a1e2a,https://open.spotify.com/album/7fI07QmUUkWklHtYWkD6dW
+589,589,589,Es Por Ti,0.658,0.425,0.0398,0.434,150.033,Juanes,https://i.scdn.co/image/ab67616d0000b27323a1613112c1ecf946f51177,https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1
+590,590,590,Para No Verte Más,0.658,0.815,0.105,0.0168,99.276,La Mosca Tse-Tse,https://i.scdn.co/image/ab67616d0000b27360fc79eea7acba5248619f82,https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W
+591,591,591,Flaca,0.532,0.774,0.407,0.0258,86.319,Potter Payper,https://i.scdn.co/image/ab67616d0000b27397d9da77d63d2d7b1020c065,https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3
+592,592,592,Inevitable,0.595,0.461,0.0641,0.269,91.976,Shakira,https://i.scdn.co/image/ab67616d0000b273bfcff1dd252b22bba16a2a5d,https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe
+593,593,593,De Música Ligera - Remasterizado 2007,0.542,0.714,0.028,0.00487,124.26,Soda Stereo,https://i.scdn.co/image/ab67616d0000b273017ed8a01b6648a9d1fe2f58,https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n
+594,594,594,Eres,0.81,0.688,0.0405,0.049,97.075,Grupo Innovacion,https://i.scdn.co/image/ab67616d0000b27383890068857925ead409857d,https://open.spotify.com/album/30JrZO37NMH07G4VPklyuR
+595,595,595,Labios Rotos - En Vivo Desde México / 2010,0.579,0.758,0.0281,0.0731,109.054,Zoé,https://i.scdn.co/image/ab67616d0000b2739abba2e4a7600af6c16988a9,https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV
+596,596,596,Afuera,0.724,0.499,0.0384,0.422,127.981,Julión Álvarez y su Norteño Banda,https://i.scdn.co/image/ab67616d0000b2730da833e964490b8553a1e3ed,https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6
+597,597,597,En algún lugar,0.527,0.859,0.0687,0.176,74.214,Duncan Dhu,https://i.scdn.co/image/ab67616d0000b273a4b46c9ca1b602ef5df37884,https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3
+598,598,598,Clavado en Un Bar,0.634,0.854,0.0369,0.00737,148.003,Maná,https://i.scdn.co/image/ab67616d0000b2732f770148868be769ff9f7a90,https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V
+599,599,599,Trátame Suavemente - Remasterizado 2007,0.473,0.445,0.0257,0.161,104.252,Soda Stereo,https://i.scdn.co/image/ab67616d0000b2738fd9b16eb6bdd20c95717258,https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt
+600,600,600,A Dios Le Pido,0.742,0.827,0.129,0.442,96.313,Los Cumbieros Del Sur,https://i.scdn.co/image/ab67616d0000b273cdd1f797028ea0d8eae4eb7c,https://open.spotify.com/album/2ZgwfPi9UQG2ltqiaERvyP
+601,601,601,Mil Horas - 1994 Remastered Version,0.687,0.384,0.101,0.259,99.854,Los Abuelos De La Nada,https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa,https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb
+602,602,602,Crimen,0.537,0.502,0.025,0.44,80.511,Gustavo Cerati,https://i.scdn.co/image/ab67616d0000b273d543f7c7de880da5370922c0,https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP
+603,603,603,La Célula Que Explota,0.425,0.479,0.0419,0.44,123.217,Caifanes,https://i.scdn.co/image/ab67616d0000b273a2ada1807eb576d7ad43b721,https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV
+604,604,604,El ataque de las chicas cocodrilo,0.748,0.784,0.0481,0.0641,119.514,Hombres G,https://i.scdn.co/image/ab67616d0000b273b716dc7e3dfc9c236ec0f03c,https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis
+605,605,605,La Planta,0.695,0.796,0.0361,0.0174,114.804,Caos,https://i.scdn.co/image/ab67616d0000b27386448f2a4c7f1bc8369308a0,https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM
+606,606,606,Ese Maldito Momento,0.473,0.713,0.0295,0.195,147.001,Ulises Bueno,https://i.scdn.co/image/ab67616d0000b273e73cfb1faa1d5bde8cc96c08,https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3
+607,607,607,La Camisa Negra,0.751,0.731,0.0308,0.0838,97.007,Juanes,https://i.scdn.co/image/ab67616d0000b273c091c40987e92a9256d2f210,https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne
+608,608,608,Rayando el Sol,0.643,0.809,0.028,0.45,112.677,Maná,https://i.scdn.co/image/ab67616d0000b2738f301c227a7a88dd9e9f0dc0,https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY
+609,609,609,Cuando Pase El Temblor - Remasterizado 2007,0.643,0.539,0.0386,0.123,94.092,Soda Stereo,https://i.scdn.co/image/ab67616d0000b273017ed8a01b6648a9d1fe2f58,https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n
+610,610,610,Viento,0.566,0.561,0.662,0.84,137.872,Viento En Contra,https://i.scdn.co/image/ab67616d0000b27345e79370daa150b439c6df7b,https://open.spotify.com/album/334iKMxy18zUAoxTbeg6OS
+611,611,611,Te quiero,0.61,0.734,0.0332,0.006,84.019,Flex,https://i.scdn.co/image/ab67616d0000b27376e7ff0377b81d012bcc2d1c,https://open.spotify.com/album/2Ofif2lRFHiYsUceUvwAFQ
+612,612,612,Adiós,0.815,0.571,0.231,0.0667,75.596,SUPER PESO,https://i.scdn.co/image/ab67616d0000b2734048c9fcbf815b0573b22c69,https://open.spotify.com/album/5tPjRxawgqB46VUj98Kvy8
+613,613,613,Soñé - En Vivo,0.627,0.476,0.0282,0.132,83,Zoé,https://i.scdn.co/image/ab67616d0000b2739abba2e4a7600af6c16988a9,https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV
+614,614,614,Lobo-hombre en París,0.637,0.95,0.0736,0.0388,146.29,La Unión,https://i.scdn.co/image/ab67616d0000b27308aef4057b0b7b2a3405b39f,https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m
+615,615,615,Como te extraño mi amor,0.737,0.503,0.0337,0.829,122.129,Leo Dan,https://i.scdn.co/image/ab67616d0000b273e917eb30abd7858880f692c3,https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm
+616,616,616,A las Nueve,0.625,0.804,0.0268,0.236,129.931,No Te Va Gustar,https://i.scdn.co/image/ab67616d0000b273e73cfb1faa1d5bde8cc96c08,https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3
+617,617,617,Sabor a Chocolate,0.619,0.896,0.0315,0.223,136.648,Elefante,https://i.scdn.co/image/ab67616d0000b2736bc311ecff7b855508f961c3,https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h
+618,618,618,En El Muelle de San Blas,0.64,0.693,0.0235,0.113,97.159,Maná,https://i.scdn.co/image/ab67616d0000b2732f770148868be769ff9f7a90,https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V
+619,619,619,Love,0.29,0.612,0.0396,0.746,175.901,OGRE Sound,https://i.scdn.co/image/ab67616d0000b2731ae1f9dc8ac35dfe373bb080,https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC
+620,620,620,A un minuto de ti,0.632,0.819,0.0362,0.109,150.377,Mikel Erentxun,https://i.scdn.co/image/ab67616d0000b2734dd1e647d529501a2a06e543,https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV
+621,621,621,Te Lo Pido por Favor,0.794,0.553,0.0582,0.343,127.016,Dylan Rodriguez,https://i.scdn.co/image/ab67616d0000b27399e669d9f75266062ea4fd5f,https://open.spotify.com/album/3GYbS13IyGJDqc97IkDFac
+622,622,622,Irresponsables,0.73,0.6,0.143,0.023,163.951,Emei,https://i.scdn.co/image/ab67616d0000b273ec9c3c43789f911722c31512,https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v
+623,623,623,Kumbala,0.722,0.368,0.0305,0.0116,120.251,Maldita Vecindad Y Los Hijos Del 5to. Patio,https://i.scdn.co/image/ab67616d0000b273328736ed5cd212182ca2e315,https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI
+624,624,624,Tu Carcel - En Vivo,0.741,0.583,0.0281,0.0325,99.64,Hermanos Espinoza,https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702,https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9
+625,625,625,Frijolero,0.774,0.653,0.0361,0.107,95.009,Molotov,https://i.scdn.co/image/ab67616d0000b273fee079615e41899b497a7dda,https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft
+626,626,626,Mentirosa,0.69,0.744,0.299,0.25,179.67,Heblack Oficial,https://i.scdn.co/image/ab67616d0000b27376539ae11943059841d482f4,https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl
+627,627,627,Arrullo De Estrellas,0.459,0.764,0.0359,0.326,81.503,Zoé,https://i.scdn.co/image/ab67616d0000b273bff746b1e90f1b0cac4690c3,https://open.spotify.com/album/4TpapdpLI8IXzZmmdeMsr7
+628,628,628,Labios Compartidos,0.527,0.898,0.0367,0.027,162.058,Maná,https://i.scdn.co/image/ab67616d0000b27306a335c72b44d0bcd4060fcc,https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB
+629,629,629,Como Eran Las Cosas,0.696,0.445,0.0316,0.463,94.984,Babasónicos,https://i.scdn.co/image/ab67616d0000b273894cafe63e54743a07ece9d3,https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3
+630,630,630,Demoliendo Hoteles,0.616,0.701,0.0629,0.00321,78.983,My Chemical Romance,https://i.scdn.co/image/ab67616d0000b273a89f53c13537b933a43d2600,https://open.spotify.com/album/17utekM9a95MchXbkbh47k
+631,631,631,Mariposa tecknicolor,0.509,0.887,0.0392,0.183,145.088,Cati Lazaro,https://i.scdn.co/image/ab67616d0000b27301760d9291c8a82283da1013,https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa
+632,632,632,Soldadito marinero,0.541,0.271,0.0363,0.247,146.531,Kiko y Su Banda,https://i.scdn.co/image/ab67616d0000b27398d24ab9660726c73cb00d37,https://open.spotify.com/album/5fK6T8MLwSTU4H3nJ9pPdU
+633,633,633,Te quiero igual,0.931,0.657,0.0573,0.107,131.943,Monchy & Alexandra,https://i.scdn.co/image/f7c00f4c6a2f1c95854ccbe8292c927c640f5fe1,https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e
+634,634,634,Seguir Viviendo Sin Tu Amor,0.679,0.368,0.0251,0.689,104.931,Luis Alberto Spinetta,https://i.scdn.co/image/ab67616d0000b273217ce66ac32c161c7516228c,https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv
+635,635,635,Oye Como Va,0.852,0.571,0.0351,0.019,124.007,MJ Songstress,https://i.scdn.co/image/ab67616d0000b273ac544557d5ebb1d349e2f822,https://open.spotify.com/album/3C6zsNP0BlBM4Iz1H5aXhb
+636,636,636,La Muralla Verde,0.717,0.837,0.0282,0.155,129.881,Los Enanitos Verdes,https://i.scdn.co/image/ab67616d0000b273c3d72bdf184c8ca79d8a1d0b,https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd
+637,637,637,Héroe de leyenda,0.698,0.605,0.0302,0.313,134.092,Heroes Del Silencio,https://i.scdn.co/image/ab67616d0000b273b4970974d42cf1086f30edf4,https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y
+638,638,638,Mentira,0.746,0.773,0.0416,0.459,108.341,La Fiera de Ojinaga,https://i.scdn.co/image/ab67616d0000b2732c9264accafff99f31b08416,https://open.spotify.com/album/3dlnuGZK7eT3brv9pgUWFw
+639,639,639,Las piedras rodantes,0.556,0.393,0.0319,0.649,98.226,El Tri,https://i.scdn.co/image/ab67616d0000b2734f05ec044e208292dc578d9e,https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg
+640,640,640,En La Ciudad De La Furia - Remasterizado 2007,0.611,0.803,0.0278,0.0823,126.506,Soda Stereo,https://i.scdn.co/image/ab67616d0000b273017ed8a01b6648a9d1fe2f58,https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n
+641,641,641,El amor después del amor,0.641,0.797,0.0431,0.00357,94.884,Fito Paez,https://i.scdn.co/image/ab67616d0000b273b80f37385bd537d17f9be93a,https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5
+642,642,642,La ingrata,0.748,0.835,0.0351,0.0854,142.942,Café Tacvba,https://i.scdn.co/image/ab67616d0000b2733b9211139eb247b12f6ba6c5,https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84
+643,643,643,Lago en el Cielo,0.433,0.018,0.0486,0.992,95.549,LMR Records,https://i.scdn.co/image/ab67616d0000b2738cb313a932887c7aa3ee736a,https://open.spotify.com/album/0kEh3ShUzQElJCnwEIuR7M
+644,644,644,Nos Siguen Pegando Abajo,0.6,0.264,0.028,0.818,142.215,Leopoldo Lopez,https://i.scdn.co/image/ab67616d0000b273287498d20e0be3ab24047eac,https://open.spotify.com/album/7fbg5gaenSCqKnyzntZ4t6
+645,645,645,Mi Primer Dia Sin Ti,0.526,0.649,0.0241,0.129,83.405,Los Enanitos Verdes,https://i.scdn.co/image/ab67616d0000b27335bf8a2179962114b8ec7585,https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a
+646,646,646,Estrechez De Corazón,0.656,0.781,0.036,0.00661,130.28,Los Prisioneros,https://i.scdn.co/image/ab67616d0000b273c5246f80d22d902d0be31cbf,https://open.spotify.com/album/62mYqA8S00dcrD42jmml86
+647,647,647,Aunque no sea conmigo,0.741,0.453,0.0564,0.658,86.945,Bunbury,https://i.scdn.co/image/ab67616d0000b273a289b923f4384e07e28984b3,https://open.spotify.com/album/6z14BU1sSs5vpswjtNRz5t
+648,648,648,El Duelo,0.55,0.848,0.045,0.0568,107.069,La Ley,https://i.scdn.co/image/ab67616d0000b273ebd88db34e2219ca3121fe08,https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi
+649,649,649,Mirala Miralo,0.669,0.889,0.0318,0.0046,122.102,Alejandra Guzman,https://i.scdn.co/image/ab67616d0000b273c70410e00e1a225ddd828f55,https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW
+650,650,650,Entre dos tierras,0.458,0.746,0.0318,0.0351,166.095,Till Lindemann,https://i.scdn.co/image/ab67616d0000b27349a719f6078c1e3165c9c830,https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y
+651,651,651,Corazon Espinado (feat. Mana),0.699,0.789,0.0285,0.13,119.959,Santana,https://i.scdn.co/image/ab67616d0000b27305517e4e2defded1e818d3d0,https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH
+652,652,652,Luna de Miel en la Mano,0.589,0.0458,0.0722,0.974,116.688,Airha,https://i.scdn.co/image/ab67616d0000b27310b67a57f7ca43eb90e0913d,https://open.spotify.com/album/6LQLFCcKYZA43Mp2iIgwj3
+653,653,653,La Lola,0.725,0.764,0.115,0.0645,151.985,Café Quijano,https://i.scdn.co/image/ab67616d0000b2732ecf9a1ba059e0e5f65b7076,https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY
+654,654,654,"Manuel Santillán, el León (Versión Reggae) - Remasterizado 2008",0.765,0.849,0.0287,0.133,107.548,Los Fabulosos Cadillacs,https://i.scdn.co/image/ab67616d0000b2736f41a299791d5833d41d78f2,https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H
+655,655,655,Te Quiero Comer La Boca,0.829,0.738,0.0613,0.574,114.972,Edwin El Futuro de la Salsa,https://i.scdn.co/image/ab67616d0000b273e1cc6cd42cfcffb337886916,https://open.spotify.com/album/6p6ormF3FF77eaAso3E1Sf
+656,656,656,Loco (Tu Forma de Ser) [Ft. Rubén Albarrán] - MTV Unplugged,0.587,0.639,0.0357,0.395,116.499,Los Auténticos Decadentes,https://i.scdn.co/image/ab67616d0000b273c1748abf863c594a825d8e9b,https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7
+657,657,657,Obsesión,0.615,0.841,0.0391,0.116,126.975,Miguel Mateos,https://i.scdn.co/image/ab67616d0000b2738a81035d471af2977d434423,https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u
+658,658,658,Tren Al Sur,0.675,0.67,0.0514,0.00565,90.23,Los Prisioneros,https://i.scdn.co/image/ab67616d0000b27398daeb6fc14ffafc7abaa4c6,https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH
+659,659,659,Pobre soñador,0.501,0.723,0.0355,0.245,115.245,El Tri,https://i.scdn.co/image/ab67616d0000b2736cb2eae5d5d6ec4e4002d106,https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L
+660,660,660,Parecemos tontos,0.571,0.543,0.032,0.757,83.025,Bunbury,https://i.scdn.co/image/ab67616d0000b273f7db708cafb6d5a7cf21dd82,https://open.spotify.com/album/0zObufS3YTzW6nvoC5J5aS
+661,661,661,Para no olvidar,0.658,0.815,0.105,0.0168,99.276,La Mosca Tse-Tse,https://i.scdn.co/image/ab67616d0000b27360fc79eea7acba5248619f82,https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W
+662,662,662,Pronta Entrega,0.774,0.615,0.0314,0.181,136.851,Virus,https://i.scdn.co/image/ab67616d0000b273292c1ca632a1e120d1208c95,https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r
+663,663,663,Beber de Tu Sangre,0.634,0.49,0.0275,0.461,125.326,Los Amantes De Lola,https://i.scdn.co/image/ab67616d0000b273e1f42ce94f61f178cfd9cdda,https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG
+664,664,664,La chispa adecuada (Bendecida 3),0.647,0.402,0.0282,0.508,113.27,Heroes Del Silencio,https://i.scdn.co/image/ab67616d0000b2733fbaad810e42dd0eaab4e8e1,https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4
+665,665,665,Santa Lucia - Remastered 2005,0.171,0.422,0.0388,0.419,175.606,Orchestra Mandolinistica Italiana,https://i.scdn.co/image/ab67616d0000b2730eb2fdaa0421519c3a200d34,https://open.spotify.com/album/7B9aczfgqcJ7L7yJX5nvp1
+666,666,666,Persiana Americana - Remasterizado 2007,0.582,0.915,0.0418,0.149,101.061,Soda Stereo,https://i.scdn.co/image/ab67616d0000b273017ed8a01b6648a9d1fe2f58,https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n
+667,667,667,La flaca,0.871,0.481,0.0383,0.52,103.063,Jarabe De Palo,https://i.scdn.co/image/ab67616d0000b27347a83522c634e84f937a897e,https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp
+668,668,668,Sin documentos,0.387,0.972,0.101,0.565,192.387,Los Rodriguez,https://i.scdn.co/image/ab67616d0000b273139d10e0ae979a7b4a811140,https://open.spotify.com/album/1o4bpii08vZJWZUAmn6H1t
+669,669,669,La chispa adecuada (feat. León Larregui) - MTV Unplugged,0.521,0.482,0.0291,0.153,115.997,Bunbury,https://i.scdn.co/image/ab67616d0000b273c4b2565b271d850d1feda941,https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h
+670,670,670,El Esqueleto,0.556,0.872,0.174,0.0402,150.339,Victimas Del Doctor Cerebro,https://i.scdn.co/image/ab67616d0000b2737d7da04388ee2413e6d3c404,https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii
+671,671,671,La pachanga,0.681,0.918,0.0508,0.00244,105.031,Vilma Palma e Vampiros,https://i.scdn.co/image/ab67616d0000b2730457ded975a6693ce8fc4392,https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr
+672,672,672,Aún,0.282,0.057,0.0733,0.715,120.188,Nature's Mirror,https://i.scdn.co/image/ab67616d0000b2739b6cff14d6cdf4b6a2be3a4f,https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8
+673,673,673,Baracunatana,0.548,0.691,0.0369,0.015,137.145,Heart,https://i.scdn.co/image/ab67616d0000b2739cef5b2e4c9104c678973f44,https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF
+674,674,674,Esa noche,0.738,0.418,0.032,0.768,134.855,Café Tacvba,https://i.scdn.co/image/ab67616d0000b2733b9211139eb247b12f6ba6c5,https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84
+675,675,675,Así Es la Vida,0.799,0.664,0.0899,0.134,97.987,Elefante,https://i.scdn.co/image/ab67616d0000b273366b39607999ac39405f187e,https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm
+676,676,676,Desde Que,0.724,0.32,0.0627,0.331,134.048,Reyli Barba,https://i.scdn.co/image/ab67616d0000b27351b341dbfd3dbe6747e53112,https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY
+677,677,677,Mujer Amante - Vivo,0.498,0.654,0.0336,0.0149,115.363,Rata Blanca,https://i.scdn.co/image/ab67616d0000b273b50ec7158f3d029815558fce,https://open.spotify.com/album/4ZVdhrTnRFM8OYwB9lp71x
+678,678,678,Veneno Vil,0.565,0.608,0.0481,0.0357,160.005,MVP BEATZ,https://i.scdn.co/image/ab67616d0000b273c85f23fe23cd30590da90fcb,https://open.spotify.com/album/5DkX9p3XgMW3dXFRvovJGW
+679,679,679,Aquí,0.723,0.615,0.0524,0.0323,157.087,Kali Uchis,https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99,https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd
+680,680,680,Ojalá que llueva café,0.569,0.809,0.0406,0.279,115.912,Juan Luis Guerra 4.40,https://i.scdn.co/image/ab67616d0000b27388ada89c4501ac1fe709b314,https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc
+681,681,681,Tornasol (Vuelves a Ser),0.469,0.926,0.0461,0.00257,154.349,La Gusana Ciega,https://i.scdn.co/image/ab67616d0000b27328957092b45af5464a753ef5,https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ
+682,682,682,Lo noto,0.715,0.655,0.0344,0.00958,111.001,Hombres G,https://i.scdn.co/image/ab67616d0000b2731967b4f6322dfa6f113d5fa0,https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p
+683,683,683,Amargo Adiós,0.607,0.666,0.0407,0.168,139.542,Estrellas de la Academia,https://i.scdn.co/image/ab67616d0000b27346d247042f899255193741a5,https://open.spotify.com/album/6bUP45dmY7WqY5uL3qFW4D
+684,684,684,No Dejes Que,0.613,0.898,0.0368,0.429,134.033,Caifanes,https://i.scdn.co/image/ab67616d0000b273bc4d989c48ad5b154fb0781d,https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl

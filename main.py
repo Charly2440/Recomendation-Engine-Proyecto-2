@@ -3,7 +3,7 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from SpotifyConnection import SpotifyConnection
-from Neo4JConnection import crearUsuario, agregarCancionUsuario
+from Neo4JConnection import obtenerDatosCancion, crearUsuario, agregarCancionUsuario, cancionesUsuario, recomendarPorGenero, recomenadarPorFeature
 import pandas as pd
 from DataCleanse import DataCleaning
 
@@ -14,31 +14,27 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    sp = SpotifyConnection()
-    datos_cancion = sp.searchTrack("Psyho Killer")
-    url_artista = datos_cancion["artists"][0]["external_urls"]["spotify"]
-    nombre_artista = datos_cancion["artists"][0]["name"]
-    #nombre_cancion = datos_cancion.keys()
-    prev = datos_cancion["preview_url"]
-    #print(nombre_artista)
-    #uri = datos_cancion["uri"]
-    # print(nombre_cancion)
-    #audio_features = sp.returnFeatures(uri)
-    #print(audio_features)
-    #print(sp.getGenresByTrack(url_artista))
-    #print(datos_cancion["artists"][0]["name"])
-    #print(audio_features[0]["danceability"])
+    #ejemplo recomendar cancion por feature devuelve lista
+    print("Rec por features: ", recomenadarPorFeature("Believer"))
+    #por genero devuelve aleatoria una cancion, tuple con nombre y genero
+    print("\nRec por genero: ", recomendarPorGenero("Believer"))
 
-    #canciones = DataCleaning().llenarBD(sp=sp, playlists=["https://open.spotify.com/playlist/37i9dQZF1DWYN0zdqzbEwl"])
-    #print(canciones)
-    #df = pd.read_csv("DatosCancionesBD.csv", index_col=0)
-    #print(df["cancion"])
-    #artistas = DataCleaning().agregarArtistas(sp)
-    #print(artistas)
+    #Ejemplo para obtener los datos de una cancion, devuelve diccionario
+    print("\nData cancion: ", obtenerDatosCancion("Believer"))
 
-    #Prueba creando usuario
-    usuarioPrueba = "Charly007"
-    cancionPrueba1 = "Imagine"
-    #crearUsuario(usuarioPrueba)
-    #agregarCancionUsuario(usuarioPrueba, cancionPrueba1, sp)
-    print(datos_cancion)
+    #Ejemplo crear usuario
+    crearUsuario("CJ21")
+    #Ejemplo agregar cancion que le gusta a usuario, necesita nombre de usuario, nombre cancion, y la instancia de SpotifyConnection
+    agregarCancionUsuario("CJ21", "Believer", sp=SpotifyConnection())
+
+    #Ejemplo obtener canciones de usuario
+    print("\nCanciones usuario CJ21: ", cancionesUsuario("CJ21"))
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,6 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+import pandas as pd
 
 class SpotifyConnection:
     def __init__(self):
