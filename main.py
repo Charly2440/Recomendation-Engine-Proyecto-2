@@ -15,20 +15,21 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     #ejemplo recomendar cancion por feature devuelve lista
-    print("Rec por features: ", recomenadarPorFeature("Believer"))
+
+    print("Rec por features: ", recomenadarPorFeature("Vivir Mi Vida"))
     #por genero devuelve aleatoria una cancion, tuple con nombre y genero
-    print("\nRec por genero: ", recomendarPorGenero("Believer"))
+    print("\nRec por genero: ", recomendarPorGenero("Vivir Mi Vida"))
 
     #Ejemplo para obtener los datos de una cancion, devuelve diccionario
-    print("\nData cancion: ", obtenerDatosCancion("Believer"))
+    #print("\nData cancion: ", obtenerDatosCancion("Wonderwall"))
 
     #Ejemplo crear usuario
-    crearUsuario("CJ21")
+    #crearUsuario("CJ12")
     #Ejemplo agregar cancion que le gusta a usuario, necesita nombre de usuario, nombre cancion, y la instancia de SpotifyConnection
-    agregarCancionUsuario("CJ21", "Believer", sp=SpotifyConnection())
+    #agregarCancionUsuario("CJ12", "Wonderwall", sp=SpotifyConnection())
 
     #Ejemplo obtener canciones de usuario
-    print("\nCanciones usuario CJ21: ", cancionesUsuario("CJ21"))
+    print("\nCanciones usuario CJ12: ", cancionesUsuario("user1"))
 
 
 

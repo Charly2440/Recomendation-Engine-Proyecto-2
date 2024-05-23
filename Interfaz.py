@@ -3,6 +3,9 @@ import tkinter as tk
 from PIL import Image, ImageTk
 import requests
 from io import BytesIO
+import Neo4JConnection
+from SpotifyConnection import SpotifyConnection
+from random import randint
 
 # Variables globales
 nombre = ""
@@ -13,8 +16,9 @@ def guardar_datos():
     global nombre, cancion
     nombre = name_entry.get()
     cancion = song_entry.get()
-    print("Nombre guardado:", nombre)
-    print("Canción guardada:", cancion)
+    Neo4JConnection.crearUsuario(nombre)
+    Neo4JConnection.agregarCancionUsuario(nombre, cancion, sp=SpotifyConnection())
+
     abrir_ventana_opciones()
 
 
@@ -26,10 +30,12 @@ def acceder_datos():
 
 def abrir_ventana_agregar_cancion():
     # Función para guardar el nombre de la canción ingresado por el usuario
+    #agregarCancionUsuario(nombre, cancion, sp=SpotifyConnection())
     def guardar_nombre_cancion():
         global nombre_cancion
         nombre_cancion = entry_nombre_cancion.get()
         print("Nombre de la canción guardado:", nombre_cancion)
+        Neo4JConnection.agregarCancionUsuario(nombre, cancion, sp=SpotifyConnection())
         ventana_agregar_cancion.destroy()
 
     # Crear ventana para agregar canción
@@ -51,8 +57,9 @@ def abrir_ventana_agregar_cancion():
 def abrir_ventana_opciones():
     ventana_opciones = tk.Toplevel(root)
     ventana_opciones.title("Opciones")
-
+    ventana_opciones.configure(bg='#010101')
     label = tk.Label(ventana_opciones, text=f"Bienvenido {nombre}, elige una opción:")
+
     label.pack(pady=10)
 
     # Botón para agregar canción
@@ -93,24 +100,25 @@ def resize_image(image_path):
 
 def mostrar_recomendaciones():
     # Lista de URLs de imágenes
-    urls_imagenes = [
-        "https://i.scdn.co/image/ab67616d0000b273e71708b667804f6241dd1a59",
-        "https://i.scdn.co/image/ab67616d0000b273e71708b667804f6241dd1a59",
-        "https://upload.wikimedia.org/wikipedia/en/0/0d/Mike_oldfield_tubular_bells_album_cover.jpg",
-        "https://i.scdn.co/image/ab67616d0000b273e71708b667804f6241dd1a59",
-        "https://upload.wikimedia.org/wikipedia/en/0/0d/Mike_oldfield_tubular_bells_album_cover.jpg"
-    ]
+    canciones = list(Neo4JConnection.cancionesUsuario(nombre))
+    cancion = canciones[randint(0,len(canciones)-1)]
+
+    l = Neo4JConnection.recomenadarPorFeature(cancion)[:5]
+
+
+    urls_imagenes = []
 
     # Lista de URLs de canciones
-    urls_canciones = [
-        "https://open.spotify.com/intl-es/track/58vy7wj08LvhnSRu8mxvAd?si=9fb80aa5fc3d4c2b",
-        "https://open.spotify.com/intl-es/track/7HmuloxW2LLiPu0lcmkjoq?si=47657a191cfc4a18",
-        "https://open.spotify.com/intl-es/track/7ERSQrRptZVM7q3VOdM7OL?si=95b1eb4e1cd64f2b",
-        "https://open.spotify.com/intl-es/track/7pKfPomDEeI4TPT6EOYjn9?si=bb97db917df643b8",
-        "https://open.spotify.com/intl-es/track/6KI7wfdhXBJF7hLh25Ljp5?si=529ecd9d557f40ff"
-    ]
+    urls_canciones = []
+    for v in l:
+        datos = Neo4JConnection.obtenerDatosCancion(v)
+        if datos['imagen'] != None:
+            urls_imagenes.append(datos['imagen'])
+            urls_canciones.append(datos['url'])
+    print( urls_imagenes)
+    print(urls_canciones )
 
-    # Función para redimensionar las imágenes al 10% de su tamaño original
+        # Función para redimensionar las imágenes al 10% de su tamaño original
 
     # Crear nueva ventana para recomendaciones
     ventana_recomendaciones = tk.Toplevel(root)
@@ -161,7 +169,7 @@ root = tk.Tk()
 root.title("ReDeMu")
 
 # Estilo para un aspecto vintage
-root.configure(bg='#d2efd8')  # Color de fondo
+root.configure(bg='#010101')  # Color de fondo
 
 # Crear elementos para la primera "ventana"
 label_name = tk.Label(root, text="Ingrese su nombre:")
@@ -170,9 +178,9 @@ name_entry = tk.Entry(root)
 label_song = tk.Label(root, text="Ingrese el nombre de una canción:")
 song_entry = tk.Entry(root)
 
-save_button = tk.Button(root, text="Guardar", command=guardar_datos)
+save_button = tk.Button(root, text="Guardar", command=guardar_datos,  bg='#99ff99')
 
-acces_button = tk.Button(root, text="Acceder", command=acceder_datos)
+acces_button = tk.Button(root, text="Acceder", command=acceder_datos, bg='#99ff99')
 
 # Botón para agregar canción al grafo
 button_agregarCancion = tk.Button(root, text="Agregar canción", command=agregar_cancion, bg='#99ff99')
@@ -187,7 +195,7 @@ button_regresar = tk.Button(root, text="Regresar", command=regresar, bg='#99ff99
 label_options = tk.Label(root, text="Select and fill options:")
 
 # Cargar imagen desde URL
-url = "https://i.scdn.co/image/ab67616d0000b273e71708b667804f6241dd1a59"
+url = "https://i.pinimg.com/originals/55/ee/ca/55eecaefc6d40db5cd2b87238f4e8066.jpg"
 response = requests.get(url)
 image_data = response.content
 image = Image.open(BytesIO(image_data))
@@ -203,4 +211,3 @@ button2 = tk.Button(root, text="Acceder a usuario existente", command=mostrar_ve
 button2.pack(pady=10)
 
 root.mainloop()
-

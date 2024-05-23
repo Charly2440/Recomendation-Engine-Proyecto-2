@@ -71,8 +71,8 @@ def recomenadarPorFeature(cancion):
             ORDER BY toFloat(r.weight) ASC
             """, cancion=cancion)
             features = [(record["weight"], record["featureName"]) for record in data]
-            feature1 = features[0]
-            feature2 = features[1]
+            feature1 = features[1]
+            feature2 = features[2]
             possibleSongsByFeature1 = session.run("""
             MATCH (c:Cancion) - [r] -> (f:Feature {name: $feature})
             WHERE toFloat(r.weight) > $weightL AND toFloat(r.weight) < $weightH
@@ -85,11 +85,13 @@ def recomenadarPorFeature(cancion):
             """, feature=feature2[1], weightL=feature2[0]-0.05, weightH=feature2[0]+0.05)
 
             songs1 = []
-            for cancion in possibleSongsByFeature1:
-                songs1.append(cancion.values()[0])
+            for c in possibleSongsByFeature1:
+                if c.values()[0] != cancion:
+                    songs1.append(c.values()[0])
             songs2 = []
-            for cancion in possibleSongsByFeature2:
-                songs2.append(cancion.values()[0])
+            for c in possibleSongsByFeature2:
+                if c.values()[0] != cancion:
+                    songs2.append(c.values()[0])
             commonSongs = []
             for song in songs1:
                 for song2 in songs2:
