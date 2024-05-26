@@ -12,6 +12,11 @@
 
 El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios a descubrir nuevas canciones basadas en sus preferencias musicales. Utiliza la API de Spotify para acceder a una amplia gama de datos sobre canciones y artistas. Los usuarios pueden crear perfiles, agregar canciones que les gusten y recibir recomendaciones personalizadas.
 
+## Diseño y relaciones del Programa 
+
+![UML ](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/9ed74fb6-2497-4c2a-91ca-7b499c3a320d)
+
+
 ## Funcionalidades Principales
 
 1. **Creación de Perfiles de Usuario**
