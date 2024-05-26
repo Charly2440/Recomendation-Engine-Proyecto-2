@@ -16,6 +16,18 @@ El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios
 
 ![UML ](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/9ed74fb6-2497-4c2a-91ca-7b499c3a320d)
 
+**Relaciones de las canciones por genero** 
+
+![visualisation (1)](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/a7bcee5e-1a0b-47d9-bf98-2e13be4a995b)
+
+**Relaciones de las canciones por feature**
+
+![visualisation (2)](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/511117f0-cce2-46b4-8f69-ef1abbb2d0c4)
+
+**Relaciones de las canciones por likes** 
+
+![visualisation (3)](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/0bc45ce0-21cb-4585-9d2c-1cf0adfa0b1e)
+
 
 ## Funcionalidades Principales
 
