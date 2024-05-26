@@ -163,7 +163,6 @@ Estos pasos te permitirán clonar y tener el repositorio del programa de manera 
 
 y veras que se abre una ventana similar a las que se ven en el apartado de Capturas de Pantalla .
 
-Estos pasos te permitirán clonar y tener el repositorio del programa de manera rápida y sencilla, ya sea desde la línea de comandos, Visual Studio Code, o GitHub Desktop.
 
 
 
