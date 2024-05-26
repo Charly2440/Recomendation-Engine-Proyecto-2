@@ -47,8 +47,28 @@ El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios
 
 4. **Interacción con Spotify**
    - Se utiliza la API de Spotify para acceder a información detallada sobre canciones y artistas, así como para reproducir las canciones recomendadas.
+  
+   ## Capturas de Pantalla del Programa
 
-  ## Requisitos ## Librerías Utilizadas
+   **Pantalla de Incio**
+   
+![Screenshot 2024-05-25 at 6 26 27 PM](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/76732851-d9ad-491b-a4e5-df81c6e3ea8e)
+
+
+**Creacion de Usuario** 
+
+![Screenshot 2024-05-25 at 6 28 19 PM](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/2b50e6a5-a0a0-4b5d-8050-b66d1d20de3f)
+
+**Inicio De Sesion** 
+
+![Screenshot 2024-05-25 at 6 33 13 PM](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/7e505a3c-8991-4d60-a4a7-a7f088876c2e)
+
+**Despues de Inciar sesion** 
+
+![Screenshot 2024-05-25 at 6 33 58 PM](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/ce5517ae-4aec-4cde-bc75-1c177877c645)
+
+
+  ## Requisitos // Librerías Utilizadas
   
  **Python**: Asegúrate de tener Python 3.7 o superior instalado en tu sistema.
  
