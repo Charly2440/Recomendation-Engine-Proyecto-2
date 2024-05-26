@@ -72,6 +72,11 @@ El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios
 
 ![Screenshot 2024-05-25 at 6 33 58 PM](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/ce5517ae-4aec-4cde-bc75-1c177877c645)
 
+**Recomendaciones** 
+
+![recomendacionesSS](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/e3c24dfa-1795-4a2c-9cbe-18c6be2aed6e)
+
+
 
   ## Requisitos // Librerías Utilizadas
   
@@ -85,11 +90,13 @@ El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios
 - requests==2.26.0
 - tk
 
-## Instalacion 
+
+
+
+
+## Instalaciòn // Clonar un repositorio de GitHub
 
 - Ya al cumplir con los requisitos para el uso del programa , lo unico que queda seria probarlo .
-
-## Clonar un repositorio de GitHub
 
 ### Desde la línea de comandos
 
@@ -103,7 +110,7 @@ El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios
     ```
    - Clona el repositorio:
     ```sh
-    git clone https://github.com/usuario/repositorio.git
+    git clone (https://github.com/Charly2440/Recomendation-Engine-Proyecto-2.git)
     ```
 
 ### Desde Visual Studio Code
