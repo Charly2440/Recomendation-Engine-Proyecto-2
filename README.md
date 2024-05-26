@@ -85,7 +85,58 @@ El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios
 - requests==2.26.0
 - tk
 
+## Instalacion 
 
+- Ya al cumplir con los requisitos para el uso del programa , lo unico que queda seria probarlo .
+
+## Clonar un repositorio de GitHub
+
+### Desde la línea de comandos
+
+1. **Instalar Git**: Descarga e instala Git desde [git-scm.com](https://git-scm.com/). Durante la instalación, asegúrate de seleccionar la opción de añadir Git a tu PATH.
+2. **Obtener la URL del repositorio**: Copia la URL del repositorio en GitHub.
+3. **Abrir la terminal**:
+   - En Windows, abre **Git Bash** (instalado con Git) o **PowerShell**.
+   - Navega a la carpeta donde deseas clonar el repositorio:
+    ```sh
+    cd ruta/a/tu/carpeta
+    ```
+   - Clona el repositorio:
+    ```sh
+    git clone https://github.com/usuario/repositorio.git
+    ```
+
+### Desde Visual Studio Code
+
+1. **Abrir Visual Studio Code**.
+2. **Abrir la pestaña de Control de Fuente**:
+   - Haz clic en el icono de ramificación en la barra lateral izquierda.
+3. **Clonar el repositorio**:
+   - Haz clic en los tres puntos (...) en la parte superior de la pestaña de Control de Fuente.
+   - Selecciona "Clonar".
+   - Pega la URL del repositorio y presiona Enter.
+4. **Seleccionar la carpeta de destino**:
+   - Elige la carpeta donde deseas clonar el repositorio.
+5. **Abrir el repositorio clonado**:
+   - Visual Studio Code te preguntará si quieres abrir el repositorio recién clonado. Haz clic en "Abrir" para comenzar a trabajar con los archivos.
+
+### Desde GitHub Desktop
+
+1. **Instalar GitHub Desktop**: Descarga e instala desde [desktop.github.com](https://desktop.github.com/).
+2. **Abrir GitHub Desktop**.
+3. **Iniciar sesión en GitHub**: Si no lo has hecho, inicia sesión con tu cuenta de GitHub.
+4. **Clonar el repositorio**:
+   - Haz clic en `File` > `Clone repository`.
+   - En la pestaña `URL`, pega la URL del repositorio de GitHub.
+   - Selecciona la carpeta de destino en tu computadora.
+   - Haz clic en `Clone` para clonar el repositorio.
+
+### Notas para usuarios de Windows
+
+- **Git Bash**: Es una terminal específica de Git que se instala junto con Git para Windows. Ofrece un entorno similar a Unix.
+- **PowerShell**: Es la terminal predeterminada de Windows y también puede usarse para ejecutar comandos de Git.
+
+Estos pasos te permitirán clonar y tener el repositorio del programa de manera rápida y sencilla, ya sea desde la línea de comandos, Visual Studio Code, o GitHub Desktop.
 
 
 
