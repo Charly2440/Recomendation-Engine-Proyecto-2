@@ -157,5 +157,13 @@ El porgrama se centra hacer recomendaciónes de música que ayuda a los usuarios
 
 Estos pasos te permitirán clonar y tener el repositorio del programa de manera rápida y sencilla, ya sea desde la línea de comandos, Visual Studio Code, o GitHub Desktop.
 
+# Y ya teniendo el codigo en tu IDE de preferencia , solo corre el archivo Interfaz.py 
+
+![Screenshot 2024-05-25 at 9 33 06 PM](https://github.com/Charly2440/Recomendation-Engine-Proyecto-2/assets/134471477/fb58a7f7-cb2a-407e-8d4e-882bb303b457)
+
+y veras que se abre una ventana similar a las que se ven en el apartado de Capturas de Pantalla .
+
+Estos pasos te permitirán clonar y tener el repositorio del programa de manera rápida y sencilla, ya sea desde la línea de comandos, Visual Studio Code, o GitHub Desktop.
+
 
 
